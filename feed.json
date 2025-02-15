@@ -1,9 +1,45 @@
 {
-  "update_time": "2025-02-15 20:19",
+  "update_time": "2025-02-16 02:13",
   "articles": [
     {
+      "title": "OVH US HIL Epyc & Storage Servers",
+      "link": "https://lowendtalk.com/discussion/202772/ovh-us-hil-epyc-storage-servers",
+      "date": "2025-02-15 23:22",
+      "author": "Service Transfers — LowEndTalk",
+      "timestamp": 1739632969.0,
+      "summary": "Hey,\n\nSo I have a few servers with OVH US that I'm looking to transfer.\n\n3 x AMD Epyc 7402\n128 GB DDR4 \n2 x 960 NVME\n10gbps down and 1gbps up unmetere...",
+      "source_url": "https://lowendtalk.com/"
+    },
+    {
+      "title": "原研药查询小程序：原研汇 v1.1 更新计划",
+      "link": "https://www.v2ex.com/t/1111700#reply4",
+      "date": "2025-02-15 22:56",
+      "author": "分享创造",
+      "timestamp": 1739631386.0,
+      "summary": "前言\n上次在 V2EX 发公布了原研汇小程序上线的话题（原研汇：原研药信息查询小程序上线，欢迎体验！），受到不少好朋友的支持和鼓励，也有不少朋友提出了宝贵的意见，在此一并十分感谢。\n其中收到大家最多反馈的就是药品的图片加上，由于 V1.0 上线的比较仓促，所有药品图片都共用的是同一张图片，因此就要把...",
+      "source_url": "https://www.v2ex.com/"
+    },
+    {
+      "title": "分享一个基于大语言模型驱动的多轮评审的高质量英文文章翻译方案",
+      "link": "https://www.v2ex.com/t/1111695#reply0",
+      "date": "2025-02-15 22:05",
+      "author": "分享创造",
+      "timestamp": 1739628352.0,
+      "summary": "引言\n在深入学习和阅读智能体（ Agent ）相关的英文技术文章时，我发现传统的翻译软件和方法往往难以将这些文章准确、流畅地转换成地道的中文。逐字逐句的直译不仅导致\"翻译腔\"严重，还会使句子结构生硬，专业术语处理不当，这让读者理解起来非常吃力。\n为了解决这个问题，我开始探索各种 AI 工具，并借鉴了...",
+      "source_url": "https://www.v2ex.com/"
+    },
+    {
+      "title": "随机食物小程序",
+      "link": "https://www.v2ex.com/t/1111693#reply3",
+      "date": "2025-02-15 21:32",
+      "author": "分享创造",
+      "timestamp": 1739626370.0,
+      "summary": "目前是自己的第一个小程序,欢迎各位大佬访问\n小程序名称\n随机选食物吃\n小程序码\n\n玩法\n可以使用系统的默认食物组，来每次随机。也可以自己定义食物组，然后自己个性化随机食物\n前端\n\n用的 vant 组件，本来想用 taro-ui 的，但是不知道咋回事，环境搭建总是有问题;\n样式是最后用 deepsee...",
+      "source_url": "https://www.v2ex.com/"
+    },
+    {
       "title": "用 Tauri 开发了一个跟 Raycast 长得一样的跨平台启动器",
-      "link": "https://www.v2ex.com/t/1111680#reply3",
+      "link": "https://www.v2ex.com/t/1111680#reply10",
       "date": "2025-02-15 19:14",
       "author": "分享创造",
       "timestamp": 1739618087.0,
@@ -21,7 +57,7 @@
     },
     {
       "title": "[送码] Twitter 粉丝数量小组件 App",
-      "link": "https://www.v2ex.com/t/1111672#reply1",
+      "link": "https://www.v2ex.com/t/1111672#reply5",
       "date": "2025-02-15 17:23",
       "author": "分享创造",
       "timestamp": 1739611431.0,
@@ -408,47 +444,11 @@
     },
     {
       "title": "书签管理插件 - 让你的 Chrome 书签管理更轻松",
-      "link": "https://www.v2ex.com/t/1111050#reply13",
+      "link": "https://www.v2ex.com/t/1111050#reply14",
       "date": "2025-02-12 22:52",
       "author": "分享创造",
       "timestamp": 1739371925.0,
       "summary": "✨ 特性\n\n🤖 AI 驱动 - 集成 Google AI Studio ，自动为书签生成标签\n📊 数据统计 - 直观展示书签使用情况\n🔍 智能搜索 - 多维度快速检索\n💾 本地存储 - 数据安全，完全离线\n🛡️ 隐私保护 - 不收集任何个人信息\n\n📦 安装\n\n从 Chrome Web Store 安...",
-      "source_url": "https://www.v2ex.com/"
-    },
-    {
-      "title": "基于 Deepseek 加强版的 ai 论文写作助手",
-      "link": "https://www.v2ex.com/t/1111042#reply2",
-      "date": "2025-02-12 21:50",
-      "author": "分享创造",
-      "timestamp": 1739368204.0,
-      "summary": "地址：https://www.yanbiai.com/paper",
-      "source_url": "https://www.v2ex.com/"
-    },
-    {
-      "title": "EndeavourOS Mercury Arrives As A Low-Key Release",
-      "link": "https://news.itsfoss.com/endeavouros-mercury/",
-      "date": "2025-02-12 20:30",
-      "author": "It's FOSS News",
-      "timestamp": 1739363407.0,
-      "summary": "The EndeavourOS Mercury release has some new bug fixes that you should know about.",
-      "source_url": "https://news.itsfoss.com/"
-    },
-    {
-      "title": "KDE Plasma 6.3 Release Aims to Be the Ultimate Desktop for Digital Artists",
-      "link": "https://news.itsfoss.com/kde-plasma-6-3/",
-      "date": "2025-02-12 18:41",
-      "author": "It's FOSS News",
-      "timestamp": 1739356896.0,
-      "summary": "KDE Plasma 6.3 has arrived with some pretty exciting changes for digital artists.",
-      "source_url": "https://news.itsfoss.com/"
-    },
-    {
-      "title": "开发的小插件被 PopClip 作者本人 Star 了？！",
-      "link": "https://www.v2ex.com/t/1111006#reply6",
-      "date": "2025-02-12 17:14",
-      "author": "分享创造",
-      "timestamp": 1739351657.0,
-      "summary": "开发的用来快速在 NeoDB 上搜索的 PopClip 插件被作者本人 Star 了！\nhttps://github.com/Wooden-Robot/Search-NeoDB-PopClip",
       "source_url": "https://www.v2ex.com/"
     }
   ]
