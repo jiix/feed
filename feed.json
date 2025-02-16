@@ -1,6 +1,60 @@
 {
-  "update_time": "2025-02-16 09:00",
+  "update_time": "2025-02-16 14:15",
   "articles": [
+    {
+      "title": "我写了个 App，上架 Google Play 一年，下载不到 10 次，于是决定把它开源了",
+      "link": "https://www.v2ex.com/t/1111761#reply1",
+      "date": "2025-02-16 13:39",
+      "author": "分享创造",
+      "timestamp": 1739684370.0,
+      "summary": "缘起\n起初接触某某标签笔记，我被其以标签为核心的卡片笔记模式深深吸引。然而，99 元一年的会员费感觉有点贵了，再加上数据存储在它的服务器，总感觉缺乏一份安全感。\n身为 Android 开发者，一个念头在我脑海中闪现：何不亲手写一款属于自己的类似应用？\n开发历程\n说干就干，最初采用 xml 方式进行开...",
+      "source_url": "https://www.v2ex.com/"
+    },
+    {
+      "title": "[开源]分享一个自己开发的记账工具",
+      "link": "https://www.v2ex.com/t/1111752#reply0",
+      "date": "2025-02-16 12:36",
+      "author": "分享创造",
+      "timestamp": 1739680579.0,
+      "summary": "起因于没找到符合自己需求的记账工具, 于是写了一个\n\n多用户\n自定义银行,货币类型,银行卡类型\n保存银行卡信息\n自定义汇率\n自定义交易分类(收入/支出/转账/兑换下的子分类\n创建钱包, 以及钱包下的划分, 每个划分绑定到某张银行卡\n创建愿望单, 与钱包功能一致\n创建债务, 与钱包功能一致\n创建订阅,...",
+      "source_url": "https://www.v2ex.com/"
+    },
+    {
+      "title": "分享一个自己开发的自用的短信收发平台",
+      "link": "https://www.v2ex.com/t/1111741#reply2",
+      "date": "2025-02-16 11:09",
+      "author": "分享创造",
+      "timestamp": 1739675345.0,
+      "summary": "功能\n\n发送短信\n接收短信\nWeb 界面, 支持查看发送和接收历史\nAPI 接口, 直接通过调用 API 接口发送短信\n\n所需材料\n\nAir780E\n一张手机卡(最好按照自身需求开通短信包,这样发短信便宜)\n树莓派\n\n搭建需要有一定的计算机基础能够焊接开发板和编译程序\n完整教程: https://b...",
+      "source_url": "https://www.v2ex.com/"
+    },
+    {
+      "title": "用你的书签打造个人「第二大脑」",
+      "link": "https://www.v2ex.com/t/1111730#reply5",
+      "date": "2025-02-16 10:04",
+      "author": "分享创造",
+      "timestamp": 1739671475.0,
+      "summary": "Rabrain 是什么？\nRabrain 是您的 AI 第二大脑（Second Brain AI），它将 Pocket 等稍后阅读应用的便利性与 Notion 的多功能性相结合。它超越了传统的书签，创建了一个智能知识管理系统。无论您是保存文章以供稍后阅读、研究主题还是构建知识库，Rabrain 的 ...",
+      "source_url": "https://www.v2ex.com/"
+    },
+    {
+      "title": "预祝哪吒 2 拿下全球票房第一，做了个网站",
+      "link": "https://www.v2ex.com/t/1111729#reply3",
+      "date": "2025-02-16 10:00",
+      "author": "分享创造",
+      "timestamp": 1739671217.0,
+      "summary": "哪吒，冲冲冲！！！https://nezha2.aolifu.org",
+      "source_url": "https://www.v2ex.com/"
+    },
+    {
+      "title": "我用 xxx ai 5 分钟开发项目之图床",
+      "link": "https://www.v2ex.com/t/1111724#reply0",
+      "date": "2025-02-16 08:56",
+      "author": "分享创造",
+      "timestamp": 1739667397.0,
+      "summary": "超简单也超简陋的图床。\n支持快捷键粘贴上传、接入百度审核、可设置删除密码、所有用户上传的图片均会在页面展示\ngithub 地址-&gt;https://github.com/Textloding/ImageUploader\n使用地址-&gt;https://img.oneself.icu/\n效果图",
+      "source_url": "https://www.v2ex.com/"
+    },
     {
       "title": "Original Low Prices starting at $3.50/month | Multi-Month Discounts | Double RAM AND Double Bandwidt",
       "link": "https://lowendtalk.com/discussion/202776/original-low-prices-starting-at-3-50-month-multi-month-discounts-double-ram-and-double-bandwidt",
@@ -39,7 +93,7 @@
     },
     {
       "title": "分享一个基于大语言模型驱动的多轮评审的高质量英文文章翻译方案",
-      "link": "https://www.v2ex.com/t/1111695#reply1",
+      "link": "https://www.v2ex.com/t/1111695#reply3",
       "date": "2025-02-15 22:05",
       "author": "分享创造",
       "timestamp": 1739628352.0,
@@ -57,7 +111,7 @@
     },
     {
       "title": "用 Tauri 开发了一个跟 Raycast 长得一样的跨平台启动器",
-      "link": "https://www.v2ex.com/t/1111680#reply13",
+      "link": "https://www.v2ex.com/t/1111680#reply15",
       "date": "2025-02-15 19:14",
       "author": "分享创造",
       "timestamp": 1739618087.0,
@@ -390,66 +444,12 @@
     },
     {
       "title": "团队花了 3 个月打造的新产品 OneClick 正式上线啦，推荐给大家～",
-      "link": "https://www.v2ex.com/t/1111095#reply20",
+      "link": "https://www.v2ex.com/t/1111095#reply22",
       "date": "2025-02-13 10:01",
       "author": "分享创造",
       "timestamp": 1739412087.0,
       "summary": "快速体验\nhttps://oneclick.sh/\nOneClick 是干啥的？\n基于 Cloudflare 领先的云托管技术，将您的应用快速发布到边缘，OneClick 提供了比 Cloudflare 更加易用的 Dashboard 以及模板，帮助大家加速创造。\nOneClick 的优势\n\n快速启...",
       "source_url": "https://www.v2ex.com/"
-    },
-    {
-      "title": "linveo.com - AMD Ryzen 9 KVM VPS with 1GB RAM and NVMe disk from $2.10/month - Ohio/Texas/Arizona",
-      "link": "https://lowendtalk.com/discussion/202677/linveo-com-amd-ryzen-9-kvm-vps-with-1gb-ram-and-nvme-disk-from-2-10-month-ohio-texas-arizona",
-      "date": "2025-02-13 09:27",
-      "author": "Offers — LowEndTalk",
-      "timestamp": 1739410073.0,
-      "summary": "Welcome to our AMD Ryzen 2025 Thread! In 2024, Linveo expanded to Texas and Arizona in addition to Ohio. All locations feature 10 Gigabit connections ...",
-      "source_url": "https://lowendtalk.com/"
-    },
-    {
-      "title": "「送码」使用 Flutter 三个月独立开发一个生活记录应用 MarkNow",
-      "link": "https://www.v2ex.com/t/1111081#reply106",
-      "date": "2025-02-13 09:22",
-      "author": "分享创造",
-      "timestamp": 1739409770.0,
-      "summary": "最近使用是 Flutter 开发并上线了一款生活记录 App ，这个帖子分享下一些心得。\n简单来说，MarkNow 是一款可以通过自定义字段（支持文本、数值、开关、评分、单选、多选）来记录不同类型事项的 App 。\n这个应用是很早之前就有的一个想法，当时调查了市面上的很多 App ，有类似的，但是都...",
-      "source_url": "https://www.v2ex.com/"
-    },
-    {
-      "title": "海外证件 OCR 识别终于做出来了，分享在线体验",
-      "link": "https://www.v2ex.com/t/1111075#reply12",
-      "date": "2025-02-13 09:06",
-      "author": "分享创造",
-      "timestamp": 1739408792.0,
-      "summary": "研究了一段时间哈萨克证件 OCR 训练，终于做出来了，效果堪比商业版。体验网址： https://smartocr.dev/同时提供海外证件 OCR 定制开发服务,wx：anNreTE2OA==效果图：",
-      "source_url": "https://www.v2ex.com/"
-    },
-    {
-      "title": "Ubuntu 24.04.2 Delayed, Won’t Be Released This Week",
-      "link": "https://www.omgubuntu.co.uk/2025/02/ubuntu-24-04-second-point-release-delay",
-      "date": "2025-02-13 06:48",
-      "author": "OMG! Ubuntu",
-      "timestamp": 1739400487.0,
-      "summary": "If you were expecting Ubuntu 24.04.2 LTS to drop tomorrow, I come bearing some bad news: the release has been delayed by a week. Canonical&#8217;s Utk...",
-      "source_url": "https://www.omgubuntu.co.uk/"
-    },
-    {
-      "title": "Transfer - OVH KS-LE-C (upgraded) - Netcup RS 1000...",
-      "link": "https://lowendtalk.com/discussion/202670/transfer-ovh-ks-le-c-upgraded-netcup-rs-1000",
-      "date": "2025-02-13 05:08",
-      "author": "Service Transfers — LowEndTalk",
-      "timestamp": 1739394488.0,
-      "summary": "Hello,\n\nI have few servers to transfer. Shaddy users skip this thread please.\n\nOVH - KS-LE-C eu-west-gra - upgraded\n\nSpecs:\nCPU: Intel Xeon 1630v4 ins...",
-      "source_url": "https://lowendtalk.com/"
-    },
-    {
-      "title": "BalHost -  Dedicated Server 85$/Month | DDR4 RAM & NVMe VPS From 3.67$ | GPU VPS | Turkey Location",
-      "link": "https://lowendtalk.com/discussion/202669/balhost-dedicated-server-85-month-ddr4-ram-nvme-vps-from-3-67-gpu-vps-turkey-location",
-      "date": "2025-02-13 03:04",
-      "author": "Offers — LowEndTalk",
-      "timestamp": 1739387045.0,
-      "summary": "🔥 LET Special Dedicated Server Offer 🔥\n2x E5-2690 v4 2.60GHz 14C/28T CPU\n128GB DDR4 RAM\n1TB SSD\n1Gbps Port @ 100Mbps (33TB)\nIstanbul/Turkey Location\nS...",
-      "source_url": "https://lowendtalk.com/"
     }
   ]
 }
