@@ -1,6 +1,24 @@
 {
-  "update_time": "2025-02-16 20:21",
+  "update_time": "2025-02-17 02:14",
   "articles": [
+    {
+      "title": "AMD EPYC / RYZEN / XEON | US & CA & EU & soon APAC(?!) | Basically Dedicated & Standard VPS & more!",
+      "link": "https://lowendtalk.com/discussion/202787/amd-epyc-ryzen-xeon-us-ca-eu-soon-apac-basically-dedicated-standard-vps-more",
+      "date": "2025-02-17 00:34",
+      "author": "Offers — LowEndTalk",
+      "timestamp": 1739723676.0,
+      "summary": "We're back with more exciting offers for you, LET! We also have a slew of updates at the bottom of this post on our network growth, new internet excha...",
+      "source_url": "https://lowendtalk.com/"
+    },
+    {
+      "title": "[LET Special Deal] US 7950X | E5 Plan with Extra Storage at $10.99/YR | BW and RAM Free Upgrade!",
+      "link": "https://lowendtalk.com/discussion/202785/let-special-deal-us-7950x-e5-plan-with-extra-storage-at-10-99-yr-bw-and-ram-free-upgrade",
+      "date": "2025-02-16 21:56",
+      "author": "Offers — LowEndTalk",
+      "timestamp": 1739714162.0,
+      "summary": "Hello LET community!\n\nWe’re thrilled to join the world’s premier hosting discussion forum as a new provider. Let us introduce ourselves and share our ...",
+      "source_url": "https://lowendtalk.com/"
+    },
     {
       "title": "摆脱 stripe 付款手输卡号，让你的付款流程全自动化，懂得都懂",
       "link": "https://www.v2ex.com/t/1111815#reply0",
@@ -30,7 +48,7 @@
     },
     {
       "title": "我写了个 App，上架 Google Play 一年，下载不到 10 次，于是决定把它开源了",
-      "link": "https://www.v2ex.com/t/1111761#reply16",
+      "link": "https://www.v2ex.com/t/1111761#reply23",
       "date": "2025-02-16 13:39",
       "author": "分享创造",
       "timestamp": 1739684370.0,
@@ -57,7 +75,7 @@
     },
     {
       "title": "用你的书签打造个人「第二大脑」",
-      "link": "https://www.v2ex.com/t/1111730#reply11",
+      "link": "https://www.v2ex.com/t/1111730#reply12",
       "date": "2025-02-16 10:04",
       "author": "分享创造",
       "timestamp": 1739671475.0,
@@ -66,7 +84,7 @@
     },
     {
       "title": "预祝哪吒 2 拿下全球票房第一，做了个网站",
-      "link": "https://www.v2ex.com/t/1111729#reply4",
+      "link": "https://www.v2ex.com/t/1111729#reply5",
       "date": "2025-02-16 10:00",
       "author": "分享创造",
       "timestamp": 1739671217.0,
@@ -101,6 +119,15 @@
       "source_url": "https://lowendtalk.com/"
     },
     {
+      "title": "Tiling Shell GNOME Extension Expands Window Suggestions",
+      "link": "https://www.omgubuntu.co.uk/2025/02/tiling-shell-update-adds-window-suggestions-for-screen-edge-snapping",
+      "date": "2025-02-15 23:46",
+      "author": "OMG! Ubuntu",
+      "timestamp": 1739634387.0,
+      "summary": "A new version of Tiling Shell, the flexible window snapping assistant for GNOME Shell, is available. Tiling Shell v16.2 now surfaces nifty &#8216;Wind...",
+      "source_url": "https://www.omgubuntu.co.uk/"
+    },
+    {
       "title": "OVH US HIL Epyc & Storage Servers",
       "link": "https://lowendtalk.com/discussion/202772/ovh-us-hil-epyc-storage-servers",
       "date": "2025-02-15 23:22",
@@ -111,7 +138,7 @@
     },
     {
       "title": "原研药查询小程序：原研汇 v1.1 更新计划",
-      "link": "https://www.v2ex.com/t/1111700#reply4",
+      "link": "https://www.v2ex.com/t/1111700#reply5",
       "date": "2025-02-15 22:56",
       "author": "分享创造",
       "timestamp": 1739631386.0,
@@ -129,7 +156,7 @@
     },
     {
       "title": "随机食物小程序",
-      "link": "https://www.v2ex.com/t/1111693#reply3",
+      "link": "https://www.v2ex.com/t/1111693#reply6",
       "date": "2025-02-15 21:32",
       "author": "分享创造",
       "timestamp": 1739626370.0,
@@ -156,7 +183,7 @@
     },
     {
       "title": "[送码] Twitter 粉丝数量小组件 App",
-      "link": "https://www.v2ex.com/t/1111672#reply5",
+      "link": "https://www.v2ex.com/t/1111672#reply6",
       "date": "2025-02-15 17:23",
       "author": "分享创造",
       "timestamp": 1739611431.0,
@@ -165,7 +192,7 @@
     },
     {
       "title": "使用 Cursor 和 Trae 写了同一个网站，感觉还是 Cursor 开发出来的比较好",
-      "link": "https://www.v2ex.com/t/1111651#reply5",
+      "link": "https://www.v2ex.com/t/1111651#reply6",
       "date": "2025-02-15 14:32",
       "author": "分享创造",
       "timestamp": 1739601123.0,
@@ -423,33 +450,6 @@
       "timestamp": 1739436789.0,
       "summary": "最近一直找数据库项目混贡献，但是 github 一个一个看仓库 issues 太麻烦了，因此简单写了一个小工具用来服务我这种社会闲散时间充裕找仓库混贡献的人\n仓库: https://github.com/KKould/issue-hunter\nexample\n&gt; ih add-repo --o...",
       "source_url": "https://www.v2ex.com/"
-    },
-    {
-      "title": "BarkLB: Bark 推送服务的负载均衡与高可用",
-      "link": "https://www.v2ex.com/t/1111219#reply4",
-      "date": "2025-02-13 16:06",
-      "author": "分享创造",
-      "timestamp": 1739433966.0,
-      "summary": "介绍\nBark 推送服务通常来说是单节点运行的, BarkLB可以通过配置多个服务器地址尽可能保证推送通知送达.\n快速开始\n需配合已有 bark 原版服务器使用, 并确保 barklb 可以访问原版 bark 服务.\n通过 Docker 运行: \ndocker run -d --restart=al...",
-      "source_url": "https://www.v2ex.com/"
-    },
-    {
-      "title": "OVH KS-LE-1 (2025) for transfer",
-      "link": "https://lowendtalk.com/discussion/202685/ovh-ks-le-1-2025-for-transfer",
-      "date": "2025-02-13 14:26",
-      "author": "Service Transfers — LowEndTalk",
-      "timestamp": 1739427989.0,
-      "summary": "KS-LE-1 (2025)\nEurope (France – Gravelines)\nIntel Xeon E5-1620v2 - 4c/8t - 3.7 GHz/3.9 GHz\n64 GB DDR3 1333 MHz\n2×480 GB SSD SATA Soft RAID\nPublic 300 ...",
-      "source_url": "https://lowendtalk.com/"
-    },
-    {
-      "title": "OVHcloud APAC Deals • Recurring Discounts on Dedicated Servers • Asia-Pacific Locations",
-      "link": "https://lowendtalk.com/discussion/202684/ovhcloud-apac-deals-recurring-discounts-on-dedicated-servers-asia-pacific-locations",
-      "date": "2025-02-13 13:52",
-      "author": "Offers — LowEndTalk",
-      "timestamp": 1739425960.0,
-      "summary": "Hi LET community,\n\nSecure lifetime savings on over 7+ Dedicated Servers hosted in Singapore, Australia or India. That's not all, we are also offering ...",
-      "source_url": "https://lowendtalk.com/"
     }
   ]
 }
