@@ -1,9 +1,36 @@
 {
-  "update_time": "2025-02-16 14:15",
+  "update_time": "2025-02-16 20:21",
   "articles": [
     {
+      "title": "摆脱 stripe 付款手输卡号，让你的付款流程全自动化，懂得都懂",
+      "link": "https://www.v2ex.com/t/1111815#reply0",
+      "date": "2025-02-16 19:34",
+      "author": "分享创造",
+      "timestamp": 1739705676.0,
+      "summary": "https://github.com/guioalis/miaogebin\n整了一个小工具，让 stripe 付款全自动化，懂得懂，觉得好用的话 还请佬们给点点 star ！",
+      "source_url": "https://www.v2ex.com/"
+    },
+    {
+      "title": "DigiRDP Flash Sale VPS's (Storage + India and Texas location)",
+      "link": "https://lowendtalk.com/discussion/202781/digirdp-flash-sale-vpss-storage-india-and-texas-location",
+      "date": "2025-02-16 18:00",
+      "author": "Service Transfers — LowEndTalk",
+      "timestamp": 1739700017.0,
+      "summary": "I DO NOT WANT MONEY. I want to trade for VPS's PREFERABLY LOCATED IN NORTH AMERICA (you can still send a msg if it's not, but it better be crazy uniqu...",
+      "source_url": "https://lowendtalk.com/"
+    },
+    {
+      "title": "Create Screen Colors",
+      "link": "https://www.v2ex.com/t/1111765#reply0",
+      "date": "2025-02-16 14:11",
+      "author": "分享创造",
+      "timestamp": 1739686279.0,
+      "summary": "Generate and display full-screen color backgrounds for your presentations, photography, and creative projects.\nwebsite address: https://screencolors.o...",
+      "source_url": "https://www.v2ex.com/"
+    },
+    {
       "title": "我写了个 App，上架 Google Play 一年，下载不到 10 次，于是决定把它开源了",
-      "link": "https://www.v2ex.com/t/1111761#reply1",
+      "link": "https://www.v2ex.com/t/1111761#reply16",
       "date": "2025-02-16 13:39",
       "author": "分享创造",
       "timestamp": 1739684370.0,
@@ -21,7 +48,7 @@
     },
     {
       "title": "分享一个自己开发的自用的短信收发平台",
-      "link": "https://www.v2ex.com/t/1111741#reply2",
+      "link": "https://www.v2ex.com/t/1111741#reply8",
       "date": "2025-02-16 11:09",
       "author": "分享创造",
       "timestamp": 1739675345.0,
@@ -30,7 +57,7 @@
     },
     {
       "title": "用你的书签打造个人「第二大脑」",
-      "link": "https://www.v2ex.com/t/1111730#reply5",
+      "link": "https://www.v2ex.com/t/1111730#reply11",
       "date": "2025-02-16 10:04",
       "author": "分享创造",
       "timestamp": 1739671475.0,
@@ -39,7 +66,7 @@
     },
     {
       "title": "预祝哪吒 2 拿下全球票房第一，做了个网站",
-      "link": "https://www.v2ex.com/t/1111729#reply3",
+      "link": "https://www.v2ex.com/t/1111729#reply4",
       "date": "2025-02-16 10:00",
       "author": "分享创造",
       "timestamp": 1739671217.0,
@@ -93,7 +120,7 @@
     },
     {
       "title": "分享一个基于大语言模型驱动的多轮评审的高质量英文文章翻译方案",
-      "link": "https://www.v2ex.com/t/1111695#reply3",
+      "link": "https://www.v2ex.com/t/1111695#reply6",
       "date": "2025-02-15 22:05",
       "author": "分享创造",
       "timestamp": 1739628352.0,
@@ -111,7 +138,7 @@
     },
     {
       "title": "用 Tauri 开发了一个跟 Raycast 长得一样的跨平台启动器",
-      "link": "https://www.v2ex.com/t/1111680#reply15",
+      "link": "https://www.v2ex.com/t/1111680#reply16",
       "date": "2025-02-15 19:14",
       "author": "分享创造",
       "timestamp": 1739618087.0,
@@ -174,7 +201,7 @@
     },
     {
       "title": "用 JS 脚本控制你的 Android 手机",
-      "link": "https://www.v2ex.com/t/1111579#reply3",
+      "link": "https://www.v2ex.com/t/1111579#reply4",
       "date": "2025-02-14 23:03",
       "author": "分享创造",
       "timestamp": 1739545437.0,
@@ -423,33 +450,6 @@
       "timestamp": 1739425960.0,
       "summary": "Hi LET community,\n\nSecure lifetime savings on over 7+ Dedicated Servers hosted in Singapore, Australia or India. That's not all, we are also offering ...",
       "source_url": "https://lowendtalk.com/"
-    },
-    {
-      "title": "Plank Reloaded is a Fresh Take on the Classic Dock Experience",
-      "link": "https://news.itsfoss.com/plank-reloaded/",
-      "date": "2025-02-13 11:15",
-      "author": "It's FOSS News",
-      "timestamp": 1739416528.0,
-      "summary": "Plank Reloaded aims to refine what the classic Plank dock offered by staying simple but with a modern take on it.",
-      "source_url": "https://news.itsfoss.com/"
-    },
-    {
-      "title": "为了“偷懒”我又做了一个快速搜索 Z-lib 书籍的 PopClip 插件",
-      "link": "https://www.v2ex.com/t/1111108#reply1",
-      "date": "2025-02-13 10:47",
-      "author": "分享创造",
-      "timestamp": 1739414865.0,
-      "summary": "前两天开发了用来快速搜索 NeoDB 内容的 PopClip 插件 Search-NeoDB-PopClip，为了进一步“偷懒”我又做了一个快速搜索 Z-lib 书籍的 PopClip 插件。欢迎大家体验！\nhttps://github.com/Wooden-Robot/Search_Z-lib_P...",
-      "source_url": "https://www.v2ex.com/"
-    },
-    {
-      "title": "团队花了 3 个月打造的新产品 OneClick 正式上线啦，推荐给大家～",
-      "link": "https://www.v2ex.com/t/1111095#reply22",
-      "date": "2025-02-13 10:01",
-      "author": "分享创造",
-      "timestamp": 1739412087.0,
-      "summary": "快速体验\nhttps://oneclick.sh/\nOneClick 是干啥的？\n基于 Cloudflare 领先的云托管技术，将您的应用快速发布到边缘，OneClick 提供了比 Cloudflare 更加易用的 Dashboard 以及模板，帮助大家加速创造。\nOneClick 的优势\n\n快速启...",
-      "source_url": "https://www.v2ex.com/"
     }
   ]
 }
