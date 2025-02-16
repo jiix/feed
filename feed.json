@@ -1,6 +1,24 @@
 {
-  "update_time": "2025-02-16 02:13",
+  "update_time": "2025-02-16 09:00",
   "articles": [
+    {
+      "title": "Original Low Prices starting at $3.50/month | Multi-Month Discounts | Double RAM AND Double Bandwidt",
+      "link": "https://lowendtalk.com/discussion/202776/original-low-prices-starting-at-3-50-month-multi-month-discounts-double-ram-and-double-bandwidt",
+      "date": "2025-02-16 07:23",
+      "author": "Offers — LowEndTalk",
+      "timestamp": 1739661780.0,
+      "summary": "All signups get double RAM and double bandwidth, double what is listed here. Please post your invoice number here and I will manually adjust the RAM a...",
+      "source_url": "https://lowendtalk.com/"
+    },
+    {
+      "title": "Best value : 128 cores / 256 threads dedicated server for $179 a month",
+      "link": "https://lowendtalk.com/discussion/202773/best-value-128-cores-256-threads-dedicated-server-for-179-a-month",
+      "date": "2025-02-16 02:47",
+      "author": "Offers — LowEndTalk",
+      "timestamp": 1739645232.0,
+      "summary": "Heymman Servers has been offering the best dedicated server deals since 2011.\n\nSetup time : 48 hours\nDatacenter : NOCIX @ Kansas City, USA\nNetwork : A...",
+      "source_url": "https://lowendtalk.com/"
+    },
     {
       "title": "OVH US HIL Epyc & Storage Servers",
       "link": "https://lowendtalk.com/discussion/202772/ovh-us-hil-epyc-storage-servers",
@@ -21,7 +39,7 @@
     },
     {
       "title": "分享一个基于大语言模型驱动的多轮评审的高质量英文文章翻译方案",
-      "link": "https://www.v2ex.com/t/1111695#reply0",
+      "link": "https://www.v2ex.com/t/1111695#reply1",
       "date": "2025-02-15 22:05",
       "author": "分享创造",
       "timestamp": 1739628352.0,
@@ -39,7 +57,7 @@
     },
     {
       "title": "用 Tauri 开发了一个跟 Raycast 长得一样的跨平台启动器",
-      "link": "https://www.v2ex.com/t/1111680#reply10",
+      "link": "https://www.v2ex.com/t/1111680#reply13",
       "date": "2025-02-15 19:14",
       "author": "分享创造",
       "timestamp": 1739618087.0,
@@ -432,24 +450,6 @@
       "timestamp": 1739387045.0,
       "summary": "🔥 LET Special Dedicated Server Offer 🔥\n2x E5-2690 v4 2.60GHz 14C/28T CPU\n128GB DDR4 RAM\n1TB SSD\n1Gbps Port @ 100Mbps (33TB)\nIstanbul/Turkey Location\nS...",
       "source_url": "https://lowendtalk.com/"
-    },
-    {
-      "title": "GNOME’s Website Just Got a Major Redesign",
-      "link": "https://www.omgubuntu.co.uk/2025/02/gnome-website-revamp-goes-live",
-      "date": "2025-02-12 23:39",
-      "author": "OMG! Ubuntu",
-      "timestamp": 1739374769.0,
-      "summary": "GNOME rolled out a huge revamp to its official website today, and I have to say: it&#8217;s a solid improvement over the old one. The official GNOME w...",
-      "source_url": "https://www.omgubuntu.co.uk/"
-    },
-    {
-      "title": "书签管理插件 - 让你的 Chrome 书签管理更轻松",
-      "link": "https://www.v2ex.com/t/1111050#reply14",
-      "date": "2025-02-12 22:52",
-      "author": "分享创造",
-      "timestamp": 1739371925.0,
-      "summary": "✨ 特性\n\n🤖 AI 驱动 - 集成 Google AI Studio ，自动为书签生成标签\n📊 数据统计 - 直观展示书签使用情况\n🔍 智能搜索 - 多维度快速检索\n💾 本地存储 - 数据安全，完全离线\n🛡️ 隐私保护 - 不收集任何个人信息\n\n📦 安装\n\n从 Chrome Web Store 安...",
-      "source_url": "https://www.v2ex.com/"
     }
   ]
 }
