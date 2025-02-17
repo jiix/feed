@@ -1,6 +1,24 @@
 {
-  "update_time": "2025-02-17 20:23",
+  "update_time": "2025-02-18 02:15",
   "articles": [
+    {
+      "title": "写了一个梗图生成器(Meme Text Generator)",
+      "link": "https://www.v2ex.com/t/1112166#reply0",
+      "date": "2025-02-18 00:03",
+      "author": "分享创造",
+      "timestamp": 1739808190.0,
+      "summary": "有没有喜欢玩的: https://www.memetextgenerator.com",
+      "source_url": "https://www.v2ex.com/"
+    },
+    {
+      "title": "Bad News for Older Computers! openSUSE Considers dropping Legacy BIOS Support",
+      "link": "https://news.itsfoss.com/opensuse-dropping-legacy-boot/",
+      "date": "2025-02-17 23:05",
+      "author": "It's FOSS News",
+      "timestamp": 1739804719.0,
+      "summary": "Should users of older hardware be worried?",
+      "source_url": "https://news.itsfoss.com/"
+    },
     {
       "title": "利用 GitHub Actions 拉取 V2EX 的历史数据到 Issues",
       "link": "https://www.v2ex.com/t/1112098#reply4",
@@ -48,7 +66,7 @@
     },
     {
       "title": "分享自己写的一个 docker 命令与 compose file 互转的小工具",
-      "link": "https://www.v2ex.com/t/1112052#reply9",
+      "link": "https://www.v2ex.com/t/1112052#reply14",
       "date": "2025-02-17 16:11",
       "author": "分享创造",
       "timestamp": 1739779876.0,
@@ -111,7 +129,7 @@
     },
     {
       "title": "我的开源项目- 集成多 AI 引擎的跨平台电子书阅读器",
-      "link": "https://www.v2ex.com/t/1111899#reply9",
+      "link": "https://www.v2ex.com/t/1111899#reply10",
       "date": "2025-02-17 10:05",
       "author": "分享创造",
       "timestamp": 1739757957.0,
@@ -192,7 +210,7 @@
     },
     {
       "title": "我写了个 App，上架 Google Play 一年，下载不到 10 次，于是决定把它开源了",
-      "link": "https://www.v2ex.com/t/1111761#reply62",
+      "link": "https://www.v2ex.com/t/1111761#reply63",
       "date": "2025-02-16 13:39",
       "author": "分享创造",
       "timestamp": 1739684370.0,
@@ -201,7 +219,7 @@
     },
     {
       "title": "[开源]分享一个自己开发的记账工具",
-      "link": "https://www.v2ex.com/t/1111752#reply0",
+      "link": "https://www.v2ex.com/t/1111752#reply1",
       "date": "2025-02-16 12:36",
       "author": "分享创造",
       "timestamp": 1739680579.0,
@@ -219,7 +237,7 @@
     },
     {
       "title": "用你的书签打造个人「第二大脑」",
-      "link": "https://www.v2ex.com/t/1111730#reply14",
+      "link": "https://www.v2ex.com/t/1111730#reply15",
       "date": "2025-02-16 10:04",
       "author": "分享创造",
       "timestamp": 1739671475.0,
@@ -372,7 +390,7 @@
     },
     {
       "title": "用 JS 脚本控制你的 Android 手机",
-      "link": "https://www.v2ex.com/t/1111579#reply4",
+      "link": "https://www.v2ex.com/t/1111579#reply5",
       "date": "2025-02-14 23:03",
       "author": "分享创造",
       "timestamp": 1739545437.0,
@@ -431,24 +449,6 @@
       "author": "Offers — LowEndTalk",
       "timestamp": 1739518978.0,
       "summary": "Los Angeles &amp; Tokyo OpenStack Cloud Server\n\nFeatures: Enterprise-Grade / Built on Advanced Tech\n\nVDay-2025 Event End: Feb 24 23:59, 2025 (UTC+0)\n\n...",
-      "source_url": "https://lowendtalk.com/"
-    },
-    {
-      "title": "javaboy 写了 5 年 CURD，第一次上线完整网站的全流程",
-      "link": "https://www.v2ex.com/t/1111482#reply11",
-      "date": "2025-02-14 15:19",
-      "author": "分享创造",
-      "timestamp": 1739517572.0,
-      "summary": "在银行写了快五年的垃圾代码, 只会增删改查，得益于大模型的能力，终于上线了人生第一个网站！\n网站项目地址： https://prompt-well.com/\n产品说明:\n🚀 prompt-well\n这是自动化提示词网站，旨在通过简单描述自动化生成场景提示词 ，帮助提升大模型回答质量。\n技术栈：\n后端...",
-      "source_url": "https://www.v2ex.com/"
-    },
-    {
-      "title": "GreenCloud Singapore - VPS for Transfer",
-      "link": "https://lowendtalk.com/discussion/202726/greencloud-singapore-vps-for-transfer",
-      "date": "2025-02-14 14:56",
-      "author": "Service Transfers — LowEndTalk",
-      "timestamp": 1739516168.0,
-      "summary": "I have two GreenCloud VPS for transfer. Both VPS are very solid.\n\nProvider: GreenCloud\n\nPackage details VPS #1:\n\n\n  5 Cores AMD Ryzen Threadripper 396...",
       "source_url": "https://lowendtalk.com/"
     }
   ]
