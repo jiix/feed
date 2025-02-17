@@ -1,6 +1,42 @@
 {
-  "update_time": "2025-02-17 08:58",
+  "update_time": "2025-02-17 14:17",
   "articles": [
+    {
+      "title": "GreenCloud | #1 TOP PROVIDER 2024 SALE | DOUBLE PROMOTIONS with GENOA/9950x | +$2000 GIVEAWAYS",
+      "link": "https://lowendtalk.com/discussion/202794/greencloud-1-top-provider-2024-sale-double-promotions-with-genoa-9950x-2000-giveaways",
+      "date": "2025-02-17 11:20",
+      "author": "Offers — LowEndTalk",
+      "timestamp": 1739762440.0,
+      "summary": "Thank you to all LET-ers for voting us #1 Top Provider and #1 Most Stable Provider on LET in 2024! It’s an honor to serve thousands of customers from ...",
+      "source_url": "https://lowendtalk.com/"
+    },
+    {
+      "title": "搜索 Github 项目的 PopClip 插件",
+      "link": "https://www.v2ex.com/t/1111919#reply0",
+      "date": "2025-02-17 10:38",
+      "author": "分享创造",
+      "timestamp": 1739759917.0,
+      "summary": "不断解决日常中的“痒点”，有一个快速搜索 Github 项目的 PopClip 插件出炉！\nhttps://github.com/Wooden-Robot/Search-Github-PopClip",
+      "source_url": "https://www.v2ex.com/"
+    },
+    {
+      "title": "我的开源项目- 集成多 AI 引擎的跨平台电子书阅读器",
+      "link": "https://www.v2ex.com/t/1111899#reply7",
+      "date": "2025-02-17 10:05",
+      "author": "分享创造",
+      "timestamp": 1739757957.0,
+      "summary": "项目已经 7 个多月了，半年多前在本站发了个帖子介绍了下（ https://v2ex.com/t/1035161 ），收到许多有用的建议。\n现在又添加了许多新功能了，我觉得已经有不错的完成度了，于是向大家再次介绍。\n🔥 AI 深度整合\n支持 OpenAI/DeepSeek/Claude/Gemini...",
+      "source_url": "https://www.v2ex.com/"
+    },
+    {
+      "title": "小鱼标签新功能 - 自动记录和标记浏览过的主题，区分哪些是浏览过的主题更容易",
+      "link": "https://www.v2ex.com/t/1111883#reply0",
+      "date": "2025-02-17 09:25",
+      "author": "分享创造",
+      "timestamp": 1739755514.0,
+      "summary": "🏷️小鱼标签 (/t/924103) 两年前第一次发布，始于 V2EX ，现在已经适配了非常多的网站，比如 Reddit, X, Tictok, 小红书, GitHub, Linux do, P**Hub, e-hentai 等等。\n最近新增了一项功能 - 可以自动记录你浏览过的主题，然后用特殊的标...",
+      "source_url": "https://www.v2ex.com/"
+    },
     {
       "title": "BaboonHosting - Get 1GB RAM, 1 vCore, and 30GB SSD for just €10.99/year!",
       "link": "https://lowendtalk.com/discussion/202792/baboonhosting-get-1gb-ram-1-vcore-and-30gb-ssd-for-just-10-99-year",
@@ -66,7 +102,7 @@
     },
     {
       "title": "我写了个 App，上架 Google Play 一年，下载不到 10 次，于是决定把它开源了",
-      "link": "https://www.v2ex.com/t/1111761#reply24",
+      "link": "https://www.v2ex.com/t/1111761#reply52",
       "date": "2025-02-16 13:39",
       "author": "分享创造",
       "timestamp": 1739684370.0,
@@ -93,7 +129,7 @@
     },
     {
       "title": "用你的书签打造个人「第二大脑」",
-      "link": "https://www.v2ex.com/t/1111730#reply12",
+      "link": "https://www.v2ex.com/t/1111730#reply14",
       "date": "2025-02-16 10:04",
       "author": "分享创造",
       "timestamp": 1739671475.0,
@@ -102,7 +138,7 @@
     },
     {
       "title": "预祝哪吒 2 拿下全球票房第一，做了个网站",
-      "link": "https://www.v2ex.com/t/1111729#reply6",
+      "link": "https://www.v2ex.com/t/1111729#reply11",
       "date": "2025-02-16 10:00",
       "author": "分享创造",
       "timestamp": 1739671217.0,
@@ -156,7 +192,7 @@
     },
     {
       "title": "原研药查询小程序：原研汇 v1.1 更新计划",
-      "link": "https://www.v2ex.com/t/1111700#reply5",
+      "link": "https://www.v2ex.com/t/1111700#reply7",
       "date": "2025-02-15 22:56",
       "author": "分享创造",
       "timestamp": 1739631386.0,
@@ -183,7 +219,7 @@
     },
     {
       "title": "用 Tauri 开发了一个跟 Raycast 长得一样的跨平台启动器",
-      "link": "https://www.v2ex.com/t/1111680#reply17",
+      "link": "https://www.v2ex.com/t/1111680#reply19",
       "date": "2025-02-15 19:14",
       "author": "分享创造",
       "timestamp": 1739618087.0,
@@ -413,42 +449,6 @@
       "author": "分享创造",
       "timestamp": 1739477339.0,
       "summary": "不是公司要求。就是自己吃饱了撑的。我是一个前端(swift)，从没写过后端，但是今天感觉后川普时代应该往阿拉伯国家做贸易站生意。今天突发奇想想出来应该建一个贸易站。求助各位大佬如何在最快时间内做到这些？",
-      "source_url": "https://www.v2ex.com/"
-    },
-    {
-      "title": "OVH KS-1 France – Gravelines",
-      "link": "https://lowendtalk.com/discussion/202705/ovh-ks-1-france-gravelines",
-      "date": "2025-02-14 01:51",
-      "author": "Service Transfers — LowEndTalk",
-      "timestamp": 1739469104.0,
-      "summary": "KS-1\nIntel Xeon-D 1520\n32 GB ECC 2133 MHz\n2×2 TB HDD SATA\nSoft RAID\n300Mbps unlimited\nCommitment No\n\nNext payment date\n12 March 2025\n\nI bought it yest...",
-      "source_url": "https://lowendtalk.com/"
-    },
-    {
-      "title": "CLAWCLOUD | Unbeatable CLOUD VPS Deals -  $12.60/Year for lifetime | 1C/1G/20GB | 6 Locations in USA",
-      "link": "https://lowendtalk.com/discussion/202692/clawcloud-unbeatable-cloud-vps-deals-12-60-year-for-lifetime-1c-1g-20gb-6-locations-in-usa",
-      "date": "2025-02-13 20:09",
-      "author": "Offers — LowEndTalk",
-      "timestamp": 1739448595.0,
-      "summary": "Hey LowEndTalk Community,\n\nTo kick off February, we’re offering a huge 65% off on our products—this is a deal you won't want to miss.\n\nI’m thrilled to...",
-      "source_url": "https://lowendtalk.com/"
-    },
-    {
-      "title": "From $1.97/mo - 10Gbps - SSD - Frankfurt / New Jersey / Los Angeles / Miami - Many payment methods!",
-      "link": "https://lowendtalk.com/discussion/202690/from-1-97-mo-10gbps-ssd-frankfurt-new-jersey-los-angeles-miami-many-payment-methods",
-      "date": "2025-02-13 18:27",
-      "author": "Offers — LowEndTalk",
-      "timestamp": 1739442463.0,
-      "summary": "Hello,\n\n### SPECIAL OFFER: Reply to this topic with your order number and we'll double your bandwidth! ###\n\nEthernet Servers has been in business sinc...",
-      "source_url": "https://lowendtalk.com/"
-    },
-    {
-      "title": "分享一款漏斗计时器小程序，帮朋友转发，可以死劲喷",
-      "link": "https://www.v2ex.com/t/1111263#reply3",
-      "date": "2025-02-13 17:51",
-      "author": "分享创造",
-      "timestamp": 1739440281.0,
-      "summary": "借助 AI 实现，个人觉得略微抽象…… [问 AI ]  [小程序码]",
       "source_url": "https://www.v2ex.com/"
     }
   ]
