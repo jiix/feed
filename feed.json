@@ -1,6 +1,24 @@
 {
-  "update_time": "2025-02-17 02:14",
+  "update_time": "2025-02-17 08:58",
   "articles": [
+    {
+      "title": "BaboonHosting - Get 1GB RAM, 1 vCore, and 30GB SSD for just €10.99/year!",
+      "link": "https://lowendtalk.com/discussion/202792/baboonhosting-get-1gb-ram-1-vcore-and-30gb-ssd-for-just-10-99-year",
+      "date": "2025-02-17 08:28",
+      "author": "Offers — LowEndTalk",
+      "timestamp": 1739752128.0,
+      "summary": "About Us :\nBaboon Hosting, a registered company in the Netherlands (Registration Number: 90442156), is dedicated to delivering top-tier hosting servic...",
+      "source_url": "https://lowendtalk.com/"
+    },
+    {
+      "title": "How to Disable (or Change) Login Sound in Ubuntu 24.10",
+      "link": "https://www.omgubuntu.co.uk/2025/02/disable-or-change-ubuntu-login-sound",
+      "date": "2025-02-17 04:21",
+      "author": "OMG! Ubuntu",
+      "timestamp": 1739737272.0,
+      "summary": "When you log in to Ubuntu 24.10 an audio clip plays to greet you — a lengthy audio clip that slowly builds to a plinky-plonky crescendo that you—or th...",
+      "source_url": "https://www.omgubuntu.co.uk/"
+    },
     {
       "title": "AMD EPYC / RYZEN / XEON | US & CA & EU & soon APAC(?!) | Basically Dedicated & Standard VPS & more!",
       "link": "https://lowendtalk.com/discussion/202787/amd-epyc-ryzen-xeon-us-ca-eu-soon-apac-basically-dedicated-standard-vps-more",
@@ -48,7 +66,7 @@
     },
     {
       "title": "我写了个 App，上架 Google Play 一年，下载不到 10 次，于是决定把它开源了",
-      "link": "https://www.v2ex.com/t/1111761#reply23",
+      "link": "https://www.v2ex.com/t/1111761#reply24",
       "date": "2025-02-16 13:39",
       "author": "分享创造",
       "timestamp": 1739684370.0,
@@ -84,7 +102,7 @@
     },
     {
       "title": "预祝哪吒 2 拿下全球票房第一，做了个网站",
-      "link": "https://www.v2ex.com/t/1111729#reply5",
+      "link": "https://www.v2ex.com/t/1111729#reply6",
       "date": "2025-02-16 10:00",
       "author": "分享创造",
       "timestamp": 1739671217.0,
@@ -165,7 +183,7 @@
     },
     {
       "title": "用 Tauri 开发了一个跟 Raycast 长得一样的跨平台启动器",
-      "link": "https://www.v2ex.com/t/1111680#reply16",
+      "link": "https://www.v2ex.com/t/1111680#reply17",
       "date": "2025-02-15 19:14",
       "author": "分享创造",
       "timestamp": 1739618087.0,
@@ -362,7 +380,7 @@
       "source_url": "https://lowendtalk.com/"
     },
     {
-      "title": "Ubuntu’s Icon Theme Fixing Its Not-So-Obvious ‘Bug’",
+      "title": "Ubuntu to Fix a Not-So-Obvious ‘Bug’ in its Icon Theme",
       "link": "https://www.omgubuntu.co.uk/2025/02/ubuntus-icon-theme-resized",
       "date": "2025-02-14 07:51",
       "author": "OMG! Ubuntu",
@@ -431,24 +449,6 @@
       "author": "分享创造",
       "timestamp": 1739440281.0,
       "summary": "借助 AI 实现，个人觉得略微抽象…… [问 AI ]  [小程序码]",
-      "source_url": "https://www.v2ex.com/"
-    },
-    {
-      "title": "分享一个在线 HASH 计算的工具",
-      "link": "https://www.v2ex.com/t/1111243#reply9",
-      "date": "2025-02-13 17:00",
-      "author": "分享创造",
-      "timestamp": 1739437208.0,
-      "summary": "网址： https://meowtec.github.io/hash-tool/\n源码： https://github.com/meowtec/hash-tool\n类似的工具网上有不少，但是能找到的大部分都是使用 JS 实现的，计算大文件时速度普遍较慢。\n而我这个是使用 rust -&gt; was...",
-      "source_url": "https://www.v2ex.com/"
-    },
-    {
-      "title": "issue-hunter 追踪多个仓库的 issues 命令行工具",
-      "link": "https://www.v2ex.com/t/1111238#reply0",
-      "date": "2025-02-13 16:53",
-      "author": "分享创造",
-      "timestamp": 1739436789.0,
-      "summary": "最近一直找数据库项目混贡献，但是 github 一个一个看仓库 issues 太麻烦了，因此简单写了一个小工具用来服务我这种社会闲散时间充裕找仓库混贡献的人\n仓库: https://github.com/KKould/issue-hunter\nexample\n&gt; ih add-repo --o...",
       "source_url": "https://www.v2ex.com/"
     }
   ]
