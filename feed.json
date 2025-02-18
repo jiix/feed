@@ -1,5 +1,5 @@
 {
-  "update_time": "2025-02-19 02:18",
+  "update_time": "2025-02-19 04:14",
   "articles": [
     {
       "title": "Two virtual servers with special requirements",
@@ -152,15 +152,6 @@
       "author": "LowEndTalk",
       "timestamp": 1739762440.0,
       "summary": "Thank you to all LET-ers for voting us #1 Top Provider and #1 Most Stable Provider on LET in 2024! It’s an honor to serve thousands of customers from ...",
-      "source_url": "https://lowendtalk.com/"
-    },
-    {
-      "title": "BaboonHosting - Get 1GB RAM, 1 vCore, and 30GB SSD for just €10.99/year!",
-      "link": "https://lowendtalk.com/discussion/202792/baboonhosting-get-1gb-ram-1-vcore-and-30gb-ssd-for-just-10-99-year",
-      "date": "2025-02-17 08:28",
-      "author": "LowEndTalk",
-      "timestamp": 1739752128.0,
-      "summary": "About Us :\nBaboon Hosting, a registered company in the Netherlands (Registration Number: 90442156), is dedicated to delivering top-tier hosting servic...",
       "source_url": "https://lowendtalk.com/"
     },
     {
@@ -449,6 +440,15 @@
       "author": "LowEndTalk",
       "timestamp": 1732850018.0,
       "summary": "CraneMail - Black Friday Launch Deals\n\nThis thanksgiving we're thankful for many things - but mostly that we finally get to launch our new email hosti...",
+      "source_url": "https://lowendtalk.com/"
+    },
+    {
+      "title": "Black Friday: EPYC Servers from just €4.99!",
+      "link": "https://lowendtalk.com/discussion/200083/black-friday-epyc-servers-from-just-4-99",
+      "date": "2024-11-29 07:00",
+      "author": "LowEndTalk",
+      "timestamp": 1732834807.0,
+      "summary": "BLACK FRIDAY 2024 - LIMITED KVM ROOTSERVER DEALS!\n\nSince 2018, we have been providing servers, web hosting, and domains to private and business custom...",
       "source_url": "https://lowendtalk.com/"
     }
   ]
