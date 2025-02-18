@@ -1,6 +1,15 @@
 {
-  "update_time": "2025-02-18 20:26",
+  "update_time": "2025-02-18 22:13",
   "articles": [
+    {
+      "title": "Ask for Mail Server [Free]",
+      "link": "https://lowendtalk.com/discussion/202835/ask-for-mail-server-free",
+      "date": "2025-02-18 20:45",
+      "author": "LowEndTalk",
+      "timestamp": 1739882709.0,
+      "summary": "Hello all.\n\nI need some advice for host own mail server.\nI've been use iredmail previously.\n\nAny other suggestion, please. Free one. TIA.",
+      "source_url": "https://lowendtalk.com/"
+    },
     {
       "title": "tailscale ipv6 server question",
       "link": "https://lowendtalk.com/discussion/202832/tailscale-ipv6-server-question",
@@ -71,15 +80,6 @@
       "author": "LowEndTalk",
       "timestamp": 1739813764.0,
       "summary": "Hi \nCan some one suggest a dedicated server preferable uk \nRAM 32 GB \n512 SSD\n8 core or more \nlooking for under $20\n\nThank you",
-      "source_url": "https://lowendtalk.com/"
-    },
-    {
-      "title": "BGP ipv6 in Proxmox",
-      "link": "https://lowendtalk.com/discussion/202814/bgp-ipv6-in-proxmox",
-      "date": "2025-02-17 21:52",
-      "author": "LowEndTalk",
-      "timestamp": 1739800329.0,
-      "summary": "Hello everyone! I am currently using Proxmox and have successfully installed Bird2 and established a BGP connection. If I want to assign my IPv6 range...",
       "source_url": "https://lowendtalk.com/"
     },
     {
@@ -335,12 +335,12 @@
       "source_url": "https://lowendtalk.com/"
     },
     {
-      "title": "1GServers.com -- Chinese New Year Celebration: Epyc, Ryzen, E5 & 10g Deals Inside!",
-      "link": "https://lowendtalk.com/discussion/202234/1gservers-com-chinese-new-year-celebration-epyc-ryzen-e5-10g-deals-inside",
-      "date": "2025-01-28 03:41",
+      "title": "Major Path.net Outage. 6 (maybe more) PoPs down at the same time.",
+      "link": "https://lowendtalk.com/discussion/202273/major-path-net-outage-6-maybe-more-pops-down-at-the-same-time",
+      "date": "2025-01-29 07:23",
       "author": "LowEndTalk",
-      "timestamp": 1738006893.0,
-      "summary": "Embrace the Year of the Snake with Unbelievable Dedicated Server Offers!\n\nThis Chinese New Year, seize the chance to turbocharge your server performan...",
+      "timestamp": 1738106615.0,
+      "summary": "https://status.path.net/\n\nFinally died?",
       "source_url": "https://lowendtalk.com/"
     },
     {
