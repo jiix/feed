@@ -1,77 +1,23 @@
 {
-  "update_time": "2025-02-18 14:16",
+  "update_time": "2025-02-18 16:03",
   "articles": [
     {
-      "title": "CopyWeb 一键复刻网页设计",
-      "link": "https://www.v2ex.com/t/1112300#reply0",
-      "date": "2025-02-18 14:00",
-      "author": "分享创造",
-      "timestamp": 1739858445.0,
-      "summary": "我的新产品：CopyWeb 正式发布了。🎉\n只需输入一个 URL 或者上传一张截图，一键复刻网页组件，还原度 80% 以上。\n跟 bolt / v0 等产品的主要区别是，CopyWeb 目前专注于做 UI 组件的设计与复刻，在复刻精准度和样式方面有更好的效果。可以理解为是一个垂直领域的 AI Cod...",
-      "source_url": "https://www.v2ex.com/"
+      "title": "tailscale ipv6 server question",
+      "link": "https://lowendtalk.com/discussion/202832/tailscale-ipv6-server-question",
+      "date": "2025-02-18 15:55",
+      "author": "LowEndTalk",
+      "timestamp": 1739865342.0,
+      "summary": "Hello,\nThis is somewhat a stupid question but if my vps server provider only supplied an ipv6 address, could I use tailscale and access services throu...",
+      "source_url": "https://lowendtalk.com/"
     },
     {
-      "title": "Java Web 开发の摸鱼圣经：从增删改查到快乐下班",
-      "link": "https://www.v2ex.com/t/1112299#reply0",
-      "date": "2025-02-18 13:57",
-      "author": "分享创造",
-      "timestamp": 1739858278.0,
-      "summary": "当代程序猿の日常\n\n增删改查：Java Web 开发的四大名著，每天都在重播  \n充血模型：听起来高大上，实际落地困难得像个\"充气模型\"  \n贫血模型：现实中的我们，连模型都\"贫血\"，代码却要\"充血\"  \n项目经理：说完需求就建表，仿佛数据库是他家开的  \nSpring Boot：Controlle...",
-      "source_url": "https://www.v2ex.com/"
-    },
-    {
-      "title": "一个让你能用思维导图形式打开 markdown 的 vscode 插件",
-      "link": "https://www.v2ex.com/t/1112296#reply0",
-      "date": "2025-02-18 13:46",
-      "author": "分享创造",
-      "timestamp": 1739857605.0,
-      "summary": "Marketplace\nGithub 仓库\n\n安装插件后点一下右上角的烧瓶图标\n\n就能显示思维导图啦",
-      "source_url": "https://www.v2ex.com/"
-    },
-    {
-      "title": "想做一个思维导图软件，大家有什么想法吗？",
-      "link": "https://www.v2ex.com/t/1112277#reply7",
-      "date": "2025-02-18 12:31",
-      "author": "分享创造",
-      "timestamp": 1739853109.0,
-      "summary": "做需求分析和结构性设计的时候，还是思维导图用着最顺手。",
-      "source_url": "https://www.v2ex.com/"
-    },
-    {
-      "title": "做订阅类 APP 的 7 年，我把所有经验打包成了这个“疯狂”的产品",
-      "link": "https://www.v2ex.com/t/1112246#reply7",
-      "date": "2025-02-18 11:09",
-      "author": "分享创造",
-      "timestamp": 1739848195.0,
-      "summary": "前言\n我是 Jason Yu ，是一个有 7 年出海经验的产品经理，目前创业两年，主要业务是出海工具应用，这两年里，我们做了非常多的品类尝试，大家见到的工具类产品，我们可能都有涉猎，因此也积攒了非常多的选品经验和产品商业化的经验，因此，在我们对订阅模式 7 年的深入研究以及封闭半年的开发后，推出了这...",
-      "source_url": "https://www.v2ex.com/"
-    },
-    {
-      "title": "做了个 V2EX 分享创造-导航站",
-      "link": "https://www.v2ex.com/t/1112232#reply1",
-      "date": "2025-02-18 10:53",
-      "author": "分享创造",
-      "timestamp": 1739847188.0,
-      "summary": "做了一个站点，获取 V2exer 分享的自己创造的网站，然后 ai 提取网站名称，描述和链接。\nhttps://rustpoint.com/nav",
-      "source_url": "https://www.v2ex.com/"
-    },
-    {
-      "title": "做了一个图片翻译的 AI 网站",
-      "link": "https://www.v2ex.com/t/1112218#reply2",
-      "date": "2025-02-18 10:14",
-      "author": "分享创造",
-      "timestamp": 1739844873.0,
-      "summary": "网站地址：image translate ai\n支持七十多种语言之间的互译。目前还是 MVP 阶段，免费试用，欢迎 v 友们支持",
-      "source_url": "https://www.v2ex.com/"
-    },
-    {
-      "title": "[送兑换码] 一个 macOS 平台的一键翻译软件，无联网权限，大小不到 1M",
-      "link": "https://www.v2ex.com/t/1112174#reply107",
-      "date": "2025-02-18 08:13",
-      "author": "分享创造",
-      "timestamp": 1739837605.0,
-      "summary": "最近写了个小软件，用来实现：划线选中句子后，使用自定义的一个快捷键来触发翻译。特点：上架了 Mac App Store ；无联网权限保护隐私。原理：通过调用快捷指令借用 macOS 自带的翻译来实现。上架审核花了好多时间，踩了不少坑。Mac App Store:  https://apps.appl...",
-      "source_url": "https://www.v2ex.com/"
+      "title": "tothost.vn | 15% OFF on DEDICATED BANDWIDTH VPS - EXCLUSIVE DEAL | Native Clean IP",
+      "link": "https://lowendtalk.com/discussion/202831/tothost-vn-15-off-on-dedicated-bandwidth-vps-exclusive-deal-native-clean-ip",
+      "date": "2025-02-18 15:02",
+      "author": "Offers — LowEndTalk",
+      "timestamp": 1739862121.0,
+      "summary": "Hello LET, welcome VPS TOT GT with private bandwidth, TotHost has an exclusive offer for the first month of the product launch. Apply the 15% discount...",
+      "source_url": "https://lowendtalk.com/"
     },
     {
       "title": "SalmonCloud Spring Sale | 20% Off, Free vCPUs, Prize Draws, Free BGP | Bare Metal Server Available",
@@ -86,37 +32,73 @@
       "title": "[HostHatch] NVMe 4 GB Regular Plan with 40% OFF for transfer",
       "link": "https://lowendtalk.com/discussion/202824/hosthatch-nvme-4-gb-regular-plan-with-40-off-for-transfer",
       "date": "2025-02-18 07:31",
-      "author": "Service Transfers — LowEndTalk",
+      "author": "LowEndTalk",
       "timestamp": 1739835091.0,
       "summary": "AMD CLOUD COMPUTE NVMe 4 GB\nCPU Cores: 2\nStorage: 20.00 GB\nRAM: 4.00 GiB\nBandwidth: 5.00 TB\n$42 Annually (after 40% OFF)\n\nThis is their regular plan w...",
       "source_url": "https://lowendtalk.com/"
     },
     {
-      "title": "写了一个梗图生成器(Meme Text Generator)",
-      "link": "https://www.v2ex.com/t/1112166#reply0",
-      "date": "2025-02-18 00:03",
-      "author": "分享创造",
-      "timestamp": 1739808190.0,
-      "summary": "有没有喜欢玩的: https://www.memetextgenerator.com",
-      "source_url": "https://www.v2ex.com/"
+      "title": "OVH Server Transfer - Possible to get back? [HELP]",
+      "link": "https://lowendtalk.com/discussion/202823/ovh-server-transfer-possible-to-get-back-help",
+      "date": "2025-02-18 06:42",
+      "author": "LowEndTalk",
+      "timestamp": 1739832123.0,
+      "summary": "Hello everyone.\n\nI recently got scammed for 140 EURO selling my ovh ks-le-b. @sulissoft requested to transfer the server first and considering his 9 y...",
+      "source_url": "https://lowendtalk.com/"
     },
     {
-      "title": "Bad News for Older Computers! openSUSE Considers dropping Legacy BIOS Support",
-      "link": "https://news.itsfoss.com/opensuse-dropping-legacy-boot/",
-      "date": "2025-02-17 23:05",
-      "author": "It's FOSS News",
-      "timestamp": 1739804719.0,
-      "summary": "Should users of older hardware be worried?",
-      "source_url": "https://news.itsfoss.com/"
+      "title": "Looking for Ryzen 9 7950X(3D) dedicated server somewhere in Europe",
+      "link": "https://lowendtalk.com/discussion/202820/looking-for-ryzen-9-7950x-3d-dedicated-server-somewhere-in-europe",
+      "date": "2025-02-18 04:02",
+      "author": "LowEndTalk",
+      "timestamp": 1739822577.0,
+      "summary": "Hey,\nWe are looking for dedicated server with:\n\nRyzen 9 7950X(3D) or Ryzen 9 9950X\n192GB RAM\n2x 2TB NVMe or more\nBandwidth: Dedicated Unlimited 1Gbps ...",
+      "source_url": "https://lowendtalk.com/"
     },
     {
-      "title": "利用 GitHub Actions 拉取 V2EX 的历史数据到 Issues",
-      "link": "https://www.v2ex.com/t/1112098#reply4",
-      "date": "2025-02-17 18:17",
-      "author": "分享创造",
-      "timestamp": 1739787464.0,
-      "summary": "苦于无法顺畅地查看本站地历史数据（只能通过搜索引擎搜索关键字），于是利用 GitHub Actions 定时拉去本站历史数据的每日评论 top 10 的帖子及帖子感谢数 top 10 的评论，目前每十五分钟左右从 2010-04-25 按照日期顺序拉取一天的热门主题\n为什么要查看历史主题数据？\n因为...",
-      "source_url": "https://www.v2ex.com/"
+      "title": "Cheap dedicated server in Europe with the option to bring a /24 subnet for an announcement",
+      "link": "https://lowendtalk.com/discussion/202819/cheap-dedicated-server-in-europe-with-the-option-to-bring-a-24-subnet-for-an-announcement",
+      "date": "2025-02-18 03:18",
+      "author": "LowEndTalk",
+      "timestamp": 1739819897.0,
+      "summary": "We are looking for the cheapest possible dedicated server in Europe where we can bring a /24 subnet for an announcement.\n\nSpecs:\n\n\n16 cores\n32 GB RAM\n...",
+      "source_url": "https://lowendtalk.com/"
+    },
+    {
+      "title": "Looking for a Dedicated server",
+      "link": "https://lowendtalk.com/discussion/202818/looking-for-a-dedicated-server",
+      "date": "2025-02-18 01:36",
+      "author": "LowEndTalk",
+      "timestamp": 1739813764.0,
+      "summary": "Hi \nCan some one suggest a dedicated server preferable uk \nRAM 32 GB \n512 SSD\n8 core or more \nlooking for under $20\n\nThank you",
+      "source_url": "https://lowendtalk.com/"
+    },
+    {
+      "title": "BGP ipv6 in Proxmox",
+      "link": "https://lowendtalk.com/discussion/202814/bgp-ipv6-in-proxmox",
+      "date": "2025-02-17 21:52",
+      "author": "LowEndTalk",
+      "timestamp": 1739800329.0,
+      "summary": "Hello everyone! I am currently using Proxmox and have successfully installed Bird2 and established a BGP connection. If I want to assign my IPv6 range...",
+      "source_url": "https://lowendtalk.com/"
+    },
+    {
+      "title": "Grok 3 is going to be released tomorrow",
+      "link": "https://lowendtalk.com/discussion/202813/grok-3-is-going-to-be-released-tomorrow",
+      "date": "2025-02-17 21:35",
+      "author": "LowEndTalk",
+      "timestamp": 1739799330.0,
+      "summary": "A new and improved version of the UNCENSORED AI, Grok, is going to be released tomorrow.\n\nThe standalone version is limited to a few countries, but yo...",
+      "source_url": "https://lowendtalk.com/"
+    },
+    {
+      "title": "I need a VPS in Europe with lowest possible latency",
+      "link": "https://lowendtalk.com/discussion/202811/i-need-a-vps-in-europe-with-lowest-possible-latency",
+      "date": "2025-02-17 18:47",
+      "author": "LowEndTalk",
+      "timestamp": 1739789248.0,
+      "summary": "I am looking for a VPS in Europe and would appreciate if the provider offers a Looking Glass feature so I can assess IP quality and latency. Additiona...",
+      "source_url": "https://lowendtalk.com/"
     },
     {
       "title": "VPS €0.25 per month (Hourly) - Free Unlimited VPN - DirectAdmin Host - over 75 locations",
@@ -137,15 +119,6 @@
       "source_url": "https://lowendtalk.com/"
     },
     {
-      "title": "拖了很久的，将图片转换为线稿的在线工具，之前发过一次 ai 生成线稿。",
-      "link": "https://www.v2ex.com/t/1112073#reply2",
-      "date": "2025-02-17 17:00",
-      "author": "分享创造",
-      "timestamp": 1739782819.0,
-      "summary": "在线地址: https://zcoloring.com/tool/image-to-line-art",
-      "source_url": "https://www.v2ex.com/"
-    },
-    {
       "title": "RoboVPS® offers: KVM SSD VPS plans from 1.8€ in Moscow, Amsterdam, Helsinki, Frankfurt",
       "link": "https://lowendtalk.com/discussion/202803/robovps-offers-kvm-ssd-vps-plans-from-1-8-in-moscow-amsterdam-helsinki-frankfurt",
       "date": "2025-02-17 16:51",
@@ -155,49 +128,22 @@
       "source_url": "https://lowendtalk.com/"
     },
     {
-      "title": "分享自己写的一个 docker 命令与 compose file 互转的小工具",
-      "link": "https://www.v2ex.com/t/1112052#reply17",
-      "date": "2025-02-17 16:11",
-      "author": "分享创造",
-      "timestamp": 1739779876.0,
-      "summary": "工具链接名称如下：\nCompose it\n东西很简单，能够将docker run命令转换为等价的docker-compose.yml，当然，顺带做了反向转换的功能。\n下面简单讲讲出发点：\n本人转业程序员一枚，摆弄 NAS 和路由器有些年头了，折腾 docker 也有不少时日，从 HomeLab 纯小...",
-      "source_url": "https://www.v2ex.com/"
+      "title": "Spaceship.com Down",
+      "link": "https://lowendtalk.com/discussion/202800/spaceship-com-down",
+      "date": "2025-02-17 16:02",
+      "author": "LowEndTalk",
+      "timestamp": 1739779357.0,
+      "summary": "Sorry, I don't know what timezone X uses...\nIt sounds like every service is down...\nI was about to transfer some domains to them, I guess this is a si...",
+      "source_url": "https://lowendtalk.com/"
     },
     {
-      "title": "在线录制和在线回放 http 工具",
-      "link": "https://www.v2ex.com/t/1112036#reply3",
-      "date": "2025-02-17 15:34",
-      "author": "分享创造",
-      "timestamp": 1739777647.0,
-      "summary": "我开发的一个网站： https://www.rcdhttp.com\n特性：\n支持在线录制 http 请求到测试集\n支持在线回放测试集\n支持简单的断言工具用来测试响应头和响应体\n支持维持登陆态\n支持自定义请求 header 头\n支持变量提取和应用\n目前支持 http1.1 协议\n\n主打简单易用，都是在...",
-      "source_url": "https://www.v2ex.com/"
-    },
-    {
-      "title": "🚀 DeepSeek-Ollama Bridge：让你的 AI 对话更快、更稳、更省心！",
-      "link": "https://www.v2ex.com/t/1112017#reply0",
-      "date": "2025-02-17 14:49",
-      "author": "分享创造",
-      "timestamp": 1739774963.0,
-      "summary": "🚀 DeepSeek-Ollama Bridge：让你的 AI 对话更快、更稳、更省心！\n🍻 Github Repo\nhttps://github.com/shengyanli1982/deepseek-ollama-bridge-release\n😫 你是否遇到过这些烦恼？\n\nDeepSeek 模型...",
-      "source_url": "https://www.v2ex.com/"
-    },
-    {
-      "title": "分享一下自己写的开源应用商店（纯前端）",
-      "link": "https://www.v2ex.com/t/1112009#reply5",
-      "date": "2025-02-17 14:33",
-      "author": "分享创造",
-      "timestamp": 1739773984.0,
-      "summary": "体验链接：\nhttps://appstore.cornradio.org/\n这里都是我做的 tools ，整理到一起方便分享 就做了这个网站。\n但是他和传统的应用商店来比较的话，还是功能很少的。适合个人分享和作品展示。\n想要修改内容的话，修改 data/apps.json 文件即可。\ngithub:...",
-      "source_url": "https://www.v2ex.com/"
-    },
-    {
-      "title": "做了个个人主页，接了 Deepseek R1 满血版，完全免费，来看看哈",
-      "link": "https://www.v2ex.com/t/1112004#reply4",
-      "date": "2025-02-17 14:30",
-      "author": "分享创造",
-      "timestamp": 1739773833.0,
-      "summary": "我的域名买来 10 几年，一直没有用，最近花了点时间做了个个人主页，接了 Deepseek R1 满血版，还能翻译、写作、画图，不用注册登录，不保存数据，完全免费使用，比官网还快。感觉还挺有意思，欢迎体验。\nhttps://www.aresn.com",
-      "source_url": "https://www.v2ex.com/"
+      "title": "Looking for storage VPS (see details)",
+      "link": "https://lowendtalk.com/discussion/202796/looking-for-storage-vps-see-details",
+      "date": "2025-02-17 14:34",
+      "author": "LowEndTalk",
+      "timestamp": 1739774098.0,
+      "summary": "Looking for a VPS w/ as much storage as I can get. Used for ; seedbox, (public and private trackers, not sure if one or the other), vpn (private), web...",
+      "source_url": "https://lowendtalk.com/"
     },
     {
       "title": "GreenCloud | #1 TOP PROVIDER 2024 SALE | DOUBLE PROMOTIONS with GENOA/9950x | +$2000 GIVEAWAYS",
@@ -209,33 +155,6 @@
       "source_url": "https://lowendtalk.com/"
     },
     {
-      "title": "搜索 Github 项目的 PopClip 插件",
-      "link": "https://www.v2ex.com/t/1111919#reply0",
-      "date": "2025-02-17 10:38",
-      "author": "分享创造",
-      "timestamp": 1739759917.0,
-      "summary": "不断解决日常中的“痒点”，有一个快速搜索 Github 项目的 PopClip 插件出炉！\nhttps://github.com/Wooden-Robot/Search-Github-PopClip",
-      "source_url": "https://www.v2ex.com/"
-    },
-    {
-      "title": "我的开源项目- 集成多 AI 引擎的跨平台电子书阅读器",
-      "link": "https://www.v2ex.com/t/1111899#reply10",
-      "date": "2025-02-17 10:05",
-      "author": "分享创造",
-      "timestamp": 1739757957.0,
-      "summary": "项目已经 7 个多月了，半年多前在本站发了个帖子介绍了下（ https://v2ex.com/t/1035161 ），收到许多有用的建议。\n现在又添加了许多新功能了，我觉得已经有不错的完成度了，于是向大家再次介绍。\n🔥 AI 深度整合\n支持 OpenAI/DeepSeek/Claude/Gemini...",
-      "source_url": "https://www.v2ex.com/"
-    },
-    {
-      "title": "小鱼标签新功能 - 自动记录和标记浏览过的主题，区分哪些是浏览过的主题更容易",
-      "link": "https://www.v2ex.com/t/1111883#reply0",
-      "date": "2025-02-17 09:25",
-      "author": "分享创造",
-      "timestamp": 1739755514.0,
-      "summary": "🏷️小鱼标签 (/t/924103) 两年前第一次发布，始于 V2EX ，现在已经适配了非常多的网站，比如 Reddit, X, Tictok, 小红书, GitHub, Linux do, P**Hub, e-hentai 等等。\n最近新增了一项功能 - 可以自动记录你浏览过的主题，然后用特殊的标...",
-      "source_url": "https://www.v2ex.com/"
-    },
-    {
       "title": "BaboonHosting - Get 1GB RAM, 1 vCore, and 30GB SSD for just €10.99/year!",
       "link": "https://lowendtalk.com/discussion/202792/baboonhosting-get-1gb-ram-1-vcore-and-30gb-ssd-for-just-10-99-year",
       "date": "2025-02-17 08:28",
@@ -243,15 +162,6 @@
       "timestamp": 1739752128.0,
       "summary": "About Us :\nBaboon Hosting, a registered company in the Netherlands (Registration Number: 90442156), is dedicated to delivering top-tier hosting servic...",
       "source_url": "https://lowendtalk.com/"
-    },
-    {
-      "title": "How to Disable (or Change) Login Sound in Ubuntu 24.10",
-      "link": "https://www.omgubuntu.co.uk/2025/02/disable-or-change-ubuntu-login-sound",
-      "date": "2025-02-17 04:21",
-      "author": "OMG! Ubuntu",
-      "timestamp": 1739737272.0,
-      "summary": "When you log in to Ubuntu 24.10 an audio clip plays to greet you — a lengthy audio clip that slowly builds to a plinky-plonky crescendo that you—or th...",
-      "source_url": "https://www.omgubuntu.co.uk/"
     },
     {
       "title": "AMD EPYC / RYZEN / XEON | US & CA & EU & soon APAC(?!) | Basically Dedicated & Standard VPS & more!",
@@ -272,87 +182,6 @@
       "source_url": "https://lowendtalk.com/"
     },
     {
-      "title": "摆脱 stripe 付款手输卡号，让你的付款流程全自动化，懂得都懂",
-      "link": "https://www.v2ex.com/t/1111815#reply1",
-      "date": "2025-02-16 19:34",
-      "author": "分享创造",
-      "timestamp": 1739705676.0,
-      "summary": "https://github.com/guioalis/miaogebin\n整了一个小工具，让 stripe 付款全自动化，懂得懂，觉得好用的话 还请佬们给点点 star ！",
-      "source_url": "https://www.v2ex.com/"
-    },
-    {
-      "title": "DigiRDP Flash Sale VPS's (Storage + India and Texas location)",
-      "link": "https://lowendtalk.com/discussion/202781/digirdp-flash-sale-vpss-storage-india-and-texas-location",
-      "date": "2025-02-16 18:00",
-      "author": "Service Transfers — LowEndTalk",
-      "timestamp": 1739700017.0,
-      "summary": "I DO NOT WANT MONEY. I want to trade for VPS's PREFERABLY LOCATED IN NORTH AMERICA (you can still send a msg if it's not, but it better be crazy uniqu...",
-      "source_url": "https://lowendtalk.com/"
-    },
-    {
-      "title": "Create Screen Colors",
-      "link": "https://www.v2ex.com/t/1111765#reply0",
-      "date": "2025-02-16 14:11",
-      "author": "分享创造",
-      "timestamp": 1739686279.0,
-      "summary": "Generate and display full-screen color backgrounds for your presentations, photography, and creative projects.\nwebsite address: https://screencolors.o...",
-      "source_url": "https://www.v2ex.com/"
-    },
-    {
-      "title": "我写了个 App，上架 Google Play 一年，下载不到 10 次，于是决定把它开源了",
-      "link": "https://www.v2ex.com/t/1111761#reply68",
-      "date": "2025-02-16 13:39",
-      "author": "分享创造",
-      "timestamp": 1739684370.0,
-      "summary": "缘起\n起初接触某某标签笔记，我被其以标签为核心的卡片笔记模式深深吸引。然而，99 元一年的会员费感觉有点贵了，再加上数据存储在它的服务器，总感觉缺乏一份安全感。\n身为 Android 开发者，一个念头在我脑海中闪现：何不亲手写一款属于自己的类似应用？\n开发历程\n说干就干，最初采用 xml 方式进行开...",
-      "source_url": "https://www.v2ex.com/"
-    },
-    {
-      "title": "[开源]分享一个自己开发的记账工具",
-      "link": "https://www.v2ex.com/t/1111752#reply4",
-      "date": "2025-02-16 12:36",
-      "author": "分享创造",
-      "timestamp": 1739680579.0,
-      "summary": "起因于没找到符合自己需求的记账工具, 于是写了一个\n\n多用户\n自定义银行,货币类型,银行卡类型\n保存银行卡信息\n自定义汇率\n自定义交易分类(收入/支出/转账/兑换下的子分类\n创建钱包, 以及钱包下的划分, 每个划分绑定到某张银行卡\n创建愿望单, 与钱包功能一致\n创建债务, 与钱包功能一致\n创建订阅,...",
-      "source_url": "https://www.v2ex.com/"
-    },
-    {
-      "title": "分享一个自己开发的自用的短信收发平台",
-      "link": "https://www.v2ex.com/t/1111741#reply13",
-      "date": "2025-02-16 11:09",
-      "author": "分享创造",
-      "timestamp": 1739675345.0,
-      "summary": "功能\n\n发送短信\n接收短信\nWeb 界面, 支持查看发送和接收历史\nAPI 接口, 直接通过调用 API 接口发送短信\n\n所需材料\n\nAir780E\n一张手机卡(最好按照自身需求开通短信包,这样发短信便宜)\n树莓派\n\n搭建需要有一定的计算机基础能够焊接开发板和编译程序\n完整教程: https://b...",
-      "source_url": "https://www.v2ex.com/"
-    },
-    {
-      "title": "用你的书签打造个人「第二大脑」",
-      "link": "https://www.v2ex.com/t/1111730#reply16",
-      "date": "2025-02-16 10:04",
-      "author": "分享创造",
-      "timestamp": 1739671475.0,
-      "summary": "Rabrain 是什么？\nRabrain 是您的 AI 第二大脑（Second Brain AI），它将 Pocket 等稍后阅读应用的便利性与 Notion 的多功能性相结合。它超越了传统的书签，创建了一个智能知识管理系统。无论您是保存文章以供稍后阅读、研究主题还是构建知识库，Rabrain 的 ...",
-      "source_url": "https://www.v2ex.com/"
-    },
-    {
-      "title": "预祝哪吒 2 拿下全球票房第一，做了个网站",
-      "link": "https://www.v2ex.com/t/1111729#reply13",
-      "date": "2025-02-16 10:00",
-      "author": "分享创造",
-      "timestamp": 1739671217.0,
-      "summary": "哪吒，冲冲冲！！！https://nezha2.aolifu.org",
-      "source_url": "https://www.v2ex.com/"
-    },
-    {
-      "title": "我用 xxx ai 5 分钟开发项目之图床",
-      "link": "https://www.v2ex.com/t/1111724#reply0",
-      "date": "2025-02-16 08:56",
-      "author": "分享创造",
-      "timestamp": 1739667397.0,
-      "summary": "超简单也超简陋的图床。\n支持快捷键粘贴上传、接入百度审核、可设置删除密码、所有用户上传的图片均会在页面展示\ngithub 地址-&gt;https://github.com/Textloding/ImageUploader\n使用地址-&gt;https://img.oneself.icu/\n效果图",
-      "source_url": "https://www.v2ex.com/"
-    },
-    {
       "title": "Original Low Prices starting at $3.50/month | Multi-Month Discounts | Double RAM AND Double Bandwidt",
       "link": "https://lowendtalk.com/discussion/202776/original-low-prices-starting-at-3-50-month-multi-month-discounts-double-ram-and-double-bandwidt",
       "date": "2025-02-16 07:23",
@@ -371,85 +200,184 @@
       "source_url": "https://lowendtalk.com/"
     },
     {
-      "title": "Tiling Shell GNOME Extension Expands Window Suggestions",
-      "link": "https://www.omgubuntu.co.uk/2025/02/tiling-shell-update-adds-window-suggestions-for-screen-edge-snapping",
-      "date": "2025-02-15 23:46",
-      "author": "OMG! Ubuntu",
-      "timestamp": 1739634387.0,
-      "summary": "A new version of Tiling Shell, the flexible window snapping assistant for GNOME Shell, is available. Tiling Shell v16.2 now surfaces nifty &#8216;Wind...",
-      "source_url": "https://www.omgubuntu.co.uk/"
-    },
-    {
       "title": "OVH US HIL Epyc & Storage Servers",
       "link": "https://lowendtalk.com/discussion/202772/ovh-us-hil-epyc-storage-servers",
       "date": "2025-02-15 23:22",
-      "author": "Service Transfers — LowEndTalk",
+      "author": "LowEndTalk",
       "timestamp": 1739632969.0,
       "summary": "Hey,\n\nSo I have a few servers with OVH US that I'm looking to transfer.\n\n3 x AMD Epyc 7402\n128 GB DDR4 \n2 x 960 NVME\n10gbps down and 1gbps up unmetere...",
       "source_url": "https://lowendtalk.com/"
     },
     {
-      "title": "原研药查询小程序：原研汇 v1.1 更新计划",
-      "link": "https://www.v2ex.com/t/1111700#reply8",
-      "date": "2025-02-15 22:56",
-      "author": "分享创造",
-      "timestamp": 1739631386.0,
-      "summary": "前言\n上次在 V2EX 发公布了原研汇小程序上线的话题（原研汇：原研药信息查询小程序上线，欢迎体验！），受到不少好朋友的支持和鼓励，也有不少朋友提出了宝贵的意见，在此一并十分感谢。\n其中收到大家最多反馈的就是药品的图片加上，由于 V1.0 上线的比较仓促，所有药品图片都共用的是同一张图片，因此就要把...",
-      "source_url": "https://www.v2ex.com/"
+      "title": "NVMe Enclosure for Mac Mini",
+      "link": "https://lowendtalk.com/discussion/202763/nvme-enclosure-for-mac-mini",
+      "date": "2025-02-15 15:50",
+      "author": "LowEndTalk",
+      "timestamp": 1739605849.0,
+      "summary": "LET Fam\n\nWhich enclosure or Hub are you guys using with your MAC Mini and mac products?",
+      "source_url": "https://lowendtalk.com/"
     },
     {
-      "title": "分享一个基于大语言模型驱动的多轮评审的高质量英文文章翻译方案",
-      "link": "https://www.v2ex.com/t/1111695#reply6",
-      "date": "2025-02-15 22:05",
-      "author": "分享创造",
-      "timestamp": 1739628352.0,
-      "summary": "引言\n在深入学习和阅读智能体（ Agent ）相关的英文技术文章时，我发现传统的翻译软件和方法往往难以将这些文章准确、流畅地转换成地道的中文。逐字逐句的直译不仅导致\"翻译腔\"严重，还会使句子结构生硬，专业术语处理不当，这让读者理解起来非常吃力。\n为了解决这个问题，我开始探索各种 AI 工具，并借鉴了...",
-      "source_url": "https://www.v2ex.com/"
+      "title": "HostBrr | Valentine Offers - 10 Gbps StorageBox €7/year! - cPanel 85% Off Flash!",
+      "link": "https://lowendtalk.com/discussion/202755/hostbrr-valentine-offers-10-gbps-storagebox-7-year-cpanel-85-off-flash",
+      "date": "2025-02-15 05:43",
+      "author": "LowEndTalk",
+      "timestamp": 1739569427.0,
+      "summary": "Hello LET!\n\nIt is Valentines day, and what better way to celebrate that than by some amazing storage deals so you can upload and store pictures of you...",
+      "source_url": "https://lowendtalk.com/"
     },
     {
-      "title": "随机食物小程序",
-      "link": "https://www.v2ex.com/t/1111693#reply7",
-      "date": "2025-02-15 21:32",
-      "author": "分享创造",
-      "timestamp": 1739626370.0,
-      "summary": "目前是自己的第一个小程序,欢迎各位大佬访问\n小程序名称\n随机选食物吃\n小程序码\n\n玩法\n可以使用系统的默认食物组，来每次随机。也可以自己定义食物组，然后自己个性化随机食物\n前端\n\n用的 vant 组件，本来想用 taro-ui 的，但是不知道咋回事，环境搭建总是有问题;\n样式是最后用 deepsee...",
-      "source_url": "https://www.v2ex.com/"
+      "title": "After rebooting my VDS, the websites stop working",
+      "link": "https://lowendtalk.com/discussion/202753/after-rebooting-my-vds-the-websites-stop-working",
+      "date": "2025-02-15 03:02",
+      "author": "LowEndTalk",
+      "timestamp": 1739559772.0,
+      "summary": "After rebooting my VDS, the websites stop working\nI'm using Fastpanel, could it be the cause?\n\nDebian 12",
+      "source_url": "https://lowendtalk.com/"
     },
     {
-      "title": "用 Tauri 开发了一个跟 Raycast 长得一样的跨平台启动器",
-      "link": "https://www.v2ex.com/t/1111680#reply19",
-      "date": "2025-02-15 19:14",
-      "author": "分享创造",
-      "timestamp": 1739618087.0,
-      "summary": "之前一直在 mac 端使用 Raycast 这款启动器，觉得挺好用也挺好看的，特别是里面的快捷链接功能，非常的好用。\n后面每次用自己的 Windows 的时候，总是感觉少了点什么，于是开始在网上搜寻 Windows 端的启动器软件方案。\n大概都看了个遍，被 Raycast 的 UI 惯坏的我基本都觉...",
-      "source_url": "https://www.v2ex.com/"
+      "title": "8GB RAM DDR4, 2 EPYC Cores, 10 Gbps ONLY €4,8 -- Valentine's Day Limited Deal",
+      "link": "https://lowendtalk.com/discussion/202748/8gb-ram-ddr4-2-epyc-cores-10-gbps-only-4-8-valentines-day-limited-deal",
+      "date": "2025-02-15 01:24",
+      "author": "Offers — LowEndTalk",
+      "timestamp": 1739553897.0,
+      "summary": "https://cloudblast.io/\n\nFor those who don't know us: we are a cloud hosting company based in Dubai with servers in Amsterdam, NL (Equinix AM5). Our pl...",
+      "source_url": "https://lowendtalk.com/"
     },
     {
-      "title": "小工具，交互式魔方，在线玩魔方",
-      "link": "https://www.v2ex.com/t/1111677#reply6",
-      "date": "2025-02-15 18:54",
-      "author": "分享创造",
-      "timestamp": 1739616880.0,
-      "summary": "分享一个写的网页 online 魔方。可以操作魔方\nhttps://rustpoint.com/blog/cube\n还有博客新写的一篇交互式魔方复原博客。https://rustpoint.com/blog/read/%2F%E9%AD%94%E6%96%B9%E5%A4%8D%E5%8E%9F%E...",
-      "source_url": "https://www.v2ex.com/"
+      "title": "[Valentine's Day Sale] ★ FameSystems.de | AMD EPYC 9754 | DDR5 RAM | @ 2.99 € ★",
+      "link": "https://lowendtalk.com/discussion/202738/valentines-day-sale-famesystems-de-amd-epyc-9754-ddr5-ram-2-99",
+      "date": "2025-02-14 21:05",
+      "author": "Offers — LowEndTalk",
+      "timestamp": 1739538351.0,
+      "summary": "Today we are introducing our Valentine's Day sale!\n\nWe operate our own server hardware and network equipment in Frankfurt, Germany. Our offer is based...",
+      "source_url": "https://lowendtalk.com/"
     },
     {
-      "title": "[送码] Twitter 粉丝数量小组件 App",
-      "link": "https://www.v2ex.com/t/1111672#reply6",
-      "date": "2025-02-15 17:23",
-      "author": "分享创造",
-      "timestamp": 1739611431.0,
-      "summary": "随便整了一个自用，如果有玩 Twitter 的朋友可以下载一个玩玩。\n\n支持 iCloud 同步\n支持追踪多用户\n\n\nKKLEY9HXTJ93\n9MJ6PFKJJMAT\nN3YE3FE7JEMT\nJLE4K6YA3EJH\n4NRAWNME7FKX\nWEM4EX33E94H\n6E99THHLLX9X\n...",
-      "source_url": "https://www.v2ex.com/"
+      "title": "OVH KS-LE-B & OVH KS-LE-C [Available For Transfer]",
+      "link": "https://lowendtalk.com/discussion/202735/ovh-ks-le-b-ovh-ks-le-c-available-for-transfer",
+      "date": "2025-02-14 18:49",
+      "author": "LowEndTalk",
+      "timestamp": 1739530166.0,
+      "summary": "OVH KS-LE-B\n* Intel Xeon E3-1245v5 - 4c/8t - 3.5 GHz/3.9 GHz\n* 32 GB ECC 2400 MHz\n* 2×2 TB HDD SATA Soft RAID\n* France - Gravelines\n* OVH EU Account T...",
+      "source_url": "https://lowendtalk.com/"
     },
     {
-      "title": "使用 Cursor 和 Trae 写了同一个网站，感觉还是 Cursor 开发出来的比较好",
-      "link": "https://www.v2ex.com/t/1111651#reply6",
-      "date": "2025-02-15 14:32",
-      "author": "分享创造",
-      "timestamp": 1739601123.0,
-      "summary": "如题，我用 Cursor 开发了一个春节倒计时网站，并且用 Trae 也写了一个同样的网站，描述词都是相同的，但是开发出来的效果却天差地别\n2025 年农历年有闰六月，导致全年长达 384 天，今天是 2025 年 2 月 15 日，2026 年春节是 2 月 17 日。因此，距离 2026 年春节...",
-      "source_url": "https://www.v2ex.com/"
+      "title": "2025 Valentine's Day★TYO|LAX★Giveaway|OpenStack|$10.9 /Yr Recurring",
+      "link": "https://lowendtalk.com/discussion/202728/2025-valentines-day-tyo-lax-giveaway-openstack-10-9-yr-recurring",
+      "date": "2025-02-14 15:42",
+      "author": "Offers — LowEndTalk",
+      "timestamp": 1739518978.0,
+      "summary": "Los Angeles &amp; Tokyo OpenStack Cloud Server\n\nFeatures: Enterprise-Grade / Built on Advanced Tech\n\nVDay-2025 Event End: Feb 24 23:59, 2025 (UTC+0)\n\n...",
+      "source_url": "https://lowendtalk.com/"
+    },
+    {
+      "title": "Any cheap vps windows asia region?",
+      "link": "https://lowendtalk.com/discussion/202720/any-cheap-vps-windows-asia-region",
+      "date": "2025-02-14 11:40",
+      "author": "LowEndTalk",
+      "timestamp": 1739504433.0,
+      "summary": "Hi all, currently im planing to get a windows vps on asia region. If you have that service please shout..\nthank you.",
+      "source_url": "https://lowendtalk.com/"
+    },
+    {
+      "title": "❤️ $1/mo 3x Bandwidth KVM VPS | CharityHost.org Valentine's VPS Sale! | Up to 70% OFF! ❤️",
+      "link": "https://lowendtalk.com/discussion/202719/%EF%B8%8F-1-mo-3x-bandwidth-kvm-vps-charityhost-org-valentines-vps-sale-up-to-70-off-%EF%B8%8F",
+      "date": "2025-02-14 10:49",
+      "author": "Offers — LowEndTalk",
+      "timestamp": 1739501386.0,
+      "summary": "Special Valentine's Day from CharityHost.org \n\nSharing love with blazing-fast reliable VPS!\n\n\n\nWe're offering incredible discounts on ALL our VPS plan...",
+      "source_url": "https://lowendtalk.com/"
+    },
+    {
+      "title": "No Prize from PulsedMedia",
+      "link": "https://lowendtalk.com/discussion/202712/no-prize-from-pulsedmedia",
+      "date": "2025-02-14 05:20",
+      "author": "LowEndTalk",
+      "timestamp": 1739481607.0,
+      "summary": "A week passed since the Provider Poll 2024 Lottery result was published but I can't get my prize from PulsedMedia.\n\nIt seems @PulsedMedia is disappear...",
+      "source_url": "https://lowendtalk.com/"
+    },
+    {
+      "title": "[HostSailor] Fall in Love with 25% Off Dedicated Servers & KVM NVMe VPS!",
+      "link": "https://lowendtalk.com/discussion/202710/hostsailor-fall-in-love-with-25-off-dedicated-servers-kvm-nvme-vps",
+      "date": "2025-02-14 04:18",
+      "author": "Offers — LowEndTalk",
+      "timestamp": 1739477897.0,
+      "summary": "HostSailor.com has established itself as a trusted provider of VPS hosting,\nDedicated Servers, Domains, SSL certificates, and a variety of other hosti...",
+      "source_url": "https://lowendtalk.com/"
+    },
+    {
+      "title": "Hostslick down for anyone else?",
+      "link": "https://lowendtalk.com/discussion/202703/hostslick-down-for-anyone-else",
+      "date": "2025-02-13 23:51",
+      "author": "LowEndTalk",
+      "timestamp": 1739461870.0,
+      "summary": "My VPSes with HostSlick are currently down, and I am unable to access their user panel. Aside from logging into the account, any other page (like tick...",
+      "source_url": "https://lowendtalk.com/"
+    },
+    {
+      "title": "Looking usa SEO server",
+      "link": "https://lowendtalk.com/discussion/202702/looking-usa-seo-server",
+      "date": "2025-02-13 23:18",
+      "author": "LowEndTalk",
+      "timestamp": 1739459928.0,
+      "summary": "I would like to briefly outline my requirements, which include but are not limited to. If you have a similar server, please feel free to reach out to ...",
+      "source_url": "https://lowendtalk.com/"
+    },
+    {
+      "title": "UrDN",
+      "link": "https://lowendtalk.com/discussion/202699/urdn",
+      "date": "2025-02-13 23:12",
+      "author": "LowEndTalk",
+      "timestamp": 1739459578.0,
+      "summary": "This discussion was created from comments split from: UrDN is dead..",
+      "source_url": "https://lowendtalk.com/"
+    },
+    {
+      "title": "CLAWCLOUD | Unbeatable CLOUD VPS Deals -  $12.60/Year for lifetime | 1C/1G/20GB | 6 Locations in USA",
+      "link": "https://lowendtalk.com/discussion/202692/clawcloud-unbeatable-cloud-vps-deals-12-60-year-for-lifetime-1c-1g-20gb-6-locations-in-usa",
+      "date": "2025-02-13 20:09",
+      "author": "Offers — LowEndTalk",
+      "timestamp": 1739448595.0,
+      "summary": "Hey LowEndTalk Community,\n\nTo kick off February, we’re offering a huge 65% off on our products—this is a deal you won't want to miss.\n\nI’m thrilled to...",
+      "source_url": "https://lowendtalk.com/"
+    },
+    {
+      "title": "Colo/server in JP,AU,NZ,BE,CH,BR,NO,DK,",
+      "link": "https://lowendtalk.com/discussion/202691/colo-server-in-jp-au-nz-be-ch-br-no-dk",
+      "date": "2025-02-13 19:32",
+      "author": "LowEndTalk",
+      "timestamp": 1739446323.0,
+      "summary": "Hello,\nWe are looking for Colo (4u) or bare metal in JP,AU,NZ,BE,CH,BR,NO,DK,PT,IT.\nThanks in advance.",
+      "source_url": "https://lowendtalk.com/"
+    },
+    {
+      "title": "From $1.97/mo - 10Gbps - SSD - Frankfurt / New Jersey / Los Angeles / Miami - Many payment methods!",
+      "link": "https://lowendtalk.com/discussion/202690/from-1-97-mo-10gbps-ssd-frankfurt-new-jersey-los-angeles-miami-many-payment-methods",
+      "date": "2025-02-13 18:27",
+      "author": "Offers — LowEndTalk",
+      "timestamp": 1739442463.0,
+      "summary": "Hello,\n\n### SPECIAL OFFER: Reply to this topic with your order number and we'll double your bandwidth! ###\n\nEthernet Servers has been in business sinc...",
+      "source_url": "https://lowendtalk.com/"
+    },
+    {
+      "title": "linveo.com - AMD Ryzen 9 KVM VPS with 1GB RAM and NVMe disk from $2.10/month - Ohio/Texas/Arizona",
+      "link": "https://lowendtalk.com/discussion/202677/linveo-com-amd-ryzen-9-kvm-vps-with-1gb-ram-and-nvme-disk-from-2-10-month-ohio-texas-arizona",
+      "date": "2025-02-13 09:27",
+      "author": "Offers — LowEndTalk",
+      "timestamp": 1739410073.0,
+      "summary": "Welcome to our AMD Ryzen 2025 Thread! In 2024, Linveo expanded to Texas and Arizona in addition to Ohio. All locations feature 10 Gigabit connections ...",
+      "source_url": "https://lowendtalk.com/"
+    },
+    {
+      "title": "Transfer - BuyVM Luxembourg",
+      "link": "https://lowendspirit.com/discussion/9071/transfer-buyvm-luxembourg",
+      "date": "2025-02-03 21:12",
+      "author": "Service Transfers — LowEndSpirit",
+      "timestamp": 1738588345.0,
+      "summary": "Used this for BGP, as I dropped my ASN, no use for this VM anymore.\n\n\n\nBuyVM 512MB Slice - $24/year\n* 1x Ryzen 3900X\n* 512MB RAM\n* 10GB NVMe SSD\n* 1x ...",
+      "source_url": "https://lowendspirit.com/"
     }
   ]
 }
