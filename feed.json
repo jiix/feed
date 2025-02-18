@@ -1,9 +1,72 @@
 {
-  "update_time": "2025-02-18 08:55",
+  "update_time": "2025-02-18 14:16",
   "articles": [
     {
+      "title": "CopyWeb 一键复刻网页设计",
+      "link": "https://www.v2ex.com/t/1112300#reply0",
+      "date": "2025-02-18 14:00",
+      "author": "分享创造",
+      "timestamp": 1739858445.0,
+      "summary": "我的新产品：CopyWeb 正式发布了。🎉\n只需输入一个 URL 或者上传一张截图，一键复刻网页组件，还原度 80% 以上。\n跟 bolt / v0 等产品的主要区别是，CopyWeb 目前专注于做 UI 组件的设计与复刻，在复刻精准度和样式方面有更好的效果。可以理解为是一个垂直领域的 AI Cod...",
+      "source_url": "https://www.v2ex.com/"
+    },
+    {
+      "title": "Java Web 开发の摸鱼圣经：从增删改查到快乐下班",
+      "link": "https://www.v2ex.com/t/1112299#reply0",
+      "date": "2025-02-18 13:57",
+      "author": "分享创造",
+      "timestamp": 1739858278.0,
+      "summary": "当代程序猿の日常\n\n增删改查：Java Web 开发的四大名著，每天都在重播  \n充血模型：听起来高大上，实际落地困难得像个\"充气模型\"  \n贫血模型：现实中的我们，连模型都\"贫血\"，代码却要\"充血\"  \n项目经理：说完需求就建表，仿佛数据库是他家开的  \nSpring Boot：Controlle...",
+      "source_url": "https://www.v2ex.com/"
+    },
+    {
+      "title": "一个让你能用思维导图形式打开 markdown 的 vscode 插件",
+      "link": "https://www.v2ex.com/t/1112296#reply0",
+      "date": "2025-02-18 13:46",
+      "author": "分享创造",
+      "timestamp": 1739857605.0,
+      "summary": "Marketplace\nGithub 仓库\n\n安装插件后点一下右上角的烧瓶图标\n\n就能显示思维导图啦",
+      "source_url": "https://www.v2ex.com/"
+    },
+    {
+      "title": "想做一个思维导图软件，大家有什么想法吗？",
+      "link": "https://www.v2ex.com/t/1112277#reply7",
+      "date": "2025-02-18 12:31",
+      "author": "分享创造",
+      "timestamp": 1739853109.0,
+      "summary": "做需求分析和结构性设计的时候，还是思维导图用着最顺手。",
+      "source_url": "https://www.v2ex.com/"
+    },
+    {
+      "title": "做订阅类 APP 的 7 年，我把所有经验打包成了这个“疯狂”的产品",
+      "link": "https://www.v2ex.com/t/1112246#reply7",
+      "date": "2025-02-18 11:09",
+      "author": "分享创造",
+      "timestamp": 1739848195.0,
+      "summary": "前言\n我是 Jason Yu ，是一个有 7 年出海经验的产品经理，目前创业两年，主要业务是出海工具应用，这两年里，我们做了非常多的品类尝试，大家见到的工具类产品，我们可能都有涉猎，因此也积攒了非常多的选品经验和产品商业化的经验，因此，在我们对订阅模式 7 年的深入研究以及封闭半年的开发后，推出了这...",
+      "source_url": "https://www.v2ex.com/"
+    },
+    {
+      "title": "做了个 V2EX 分享创造-导航站",
+      "link": "https://www.v2ex.com/t/1112232#reply1",
+      "date": "2025-02-18 10:53",
+      "author": "分享创造",
+      "timestamp": 1739847188.0,
+      "summary": "做了一个站点，获取 V2exer 分享的自己创造的网站，然后 ai 提取网站名称，描述和链接。\nhttps://rustpoint.com/nav",
+      "source_url": "https://www.v2ex.com/"
+    },
+    {
+      "title": "做了一个图片翻译的 AI 网站",
+      "link": "https://www.v2ex.com/t/1112218#reply2",
+      "date": "2025-02-18 10:14",
+      "author": "分享创造",
+      "timestamp": 1739844873.0,
+      "summary": "网站地址：image translate ai\n支持七十多种语言之间的互译。目前还是 MVP 阶段，免费试用，欢迎 v 友们支持",
+      "source_url": "https://www.v2ex.com/"
+    },
+    {
       "title": "[送兑换码] 一个 macOS 平台的一键翻译软件，无联网权限，大小不到 1M",
-      "link": "https://www.v2ex.com/t/1112174#reply22",
+      "link": "https://www.v2ex.com/t/1112174#reply107",
       "date": "2025-02-18 08:13",
       "author": "分享创造",
       "timestamp": 1739837605.0,
@@ -75,7 +138,7 @@
     },
     {
       "title": "拖了很久的，将图片转换为线稿的在线工具，之前发过一次 ai 生成线稿。",
-      "link": "https://www.v2ex.com/t/1112073#reply0",
+      "link": "https://www.v2ex.com/t/1112073#reply2",
       "date": "2025-02-17 17:00",
       "author": "分享创造",
       "timestamp": 1739782819.0,
@@ -93,7 +156,7 @@
     },
     {
       "title": "分享自己写的一个 docker 命令与 compose file 互转的小工具",
-      "link": "https://www.v2ex.com/t/1112052#reply14",
+      "link": "https://www.v2ex.com/t/1112052#reply17",
       "date": "2025-02-17 16:11",
       "author": "分享创造",
       "timestamp": 1739779876.0,
@@ -102,7 +165,7 @@
     },
     {
       "title": "在线录制和在线回放 http 工具",
-      "link": "https://www.v2ex.com/t/1112036#reply1",
+      "link": "https://www.v2ex.com/t/1112036#reply3",
       "date": "2025-02-17 15:34",
       "author": "分享创造",
       "timestamp": 1739777647.0,
@@ -120,7 +183,7 @@
     },
     {
       "title": "分享一下自己写的开源应用商店（纯前端）",
-      "link": "https://www.v2ex.com/t/1112009#reply3",
+      "link": "https://www.v2ex.com/t/1112009#reply5",
       "date": "2025-02-17 14:33",
       "author": "分享创造",
       "timestamp": 1739773984.0,
@@ -129,7 +192,7 @@
     },
     {
       "title": "做了个个人主页，接了 Deepseek R1 满血版，完全免费，来看看哈",
-      "link": "https://www.v2ex.com/t/1112004#reply3",
+      "link": "https://www.v2ex.com/t/1112004#reply4",
       "date": "2025-02-17 14:30",
       "author": "分享创造",
       "timestamp": 1739773833.0,
@@ -237,7 +300,7 @@
     },
     {
       "title": "我写了个 App，上架 Google Play 一年，下载不到 10 次，于是决定把它开源了",
-      "link": "https://www.v2ex.com/t/1111761#reply63",
+      "link": "https://www.v2ex.com/t/1111761#reply68",
       "date": "2025-02-16 13:39",
       "author": "分享创造",
       "timestamp": 1739684370.0,
@@ -246,7 +309,7 @@
     },
     {
       "title": "[开源]分享一个自己开发的记账工具",
-      "link": "https://www.v2ex.com/t/1111752#reply1",
+      "link": "https://www.v2ex.com/t/1111752#reply4",
       "date": "2025-02-16 12:36",
       "author": "分享创造",
       "timestamp": 1739680579.0,
@@ -255,7 +318,7 @@
     },
     {
       "title": "分享一个自己开发的自用的短信收发平台",
-      "link": "https://www.v2ex.com/t/1111741#reply12",
+      "link": "https://www.v2ex.com/t/1111741#reply13",
       "date": "2025-02-16 11:09",
       "author": "分享创造",
       "timestamp": 1739675345.0,
@@ -264,7 +327,7 @@
     },
     {
       "title": "用你的书签打造个人「第二大脑」",
-      "link": "https://www.v2ex.com/t/1111730#reply15",
+      "link": "https://www.v2ex.com/t/1111730#reply16",
       "date": "2025-02-16 10:04",
       "author": "分享创造",
       "timestamp": 1739671475.0,
@@ -363,7 +426,7 @@
     },
     {
       "title": "小工具，交互式魔方，在线玩魔方",
-      "link": "https://www.v2ex.com/t/1111677#reply3",
+      "link": "https://www.v2ex.com/t/1111677#reply6",
       "date": "2025-02-15 18:54",
       "author": "分享创造",
       "timestamp": 1739616880.0,
@@ -387,69 +450,6 @@
       "timestamp": 1739601123.0,
       "summary": "如题，我用 Cursor 开发了一个春节倒计时网站，并且用 Trae 也写了一个同样的网站，描述词都是相同的，但是开发出来的效果却天差地别\n2025 年农历年有闰六月，导致全年长达 384 天，今天是 2025 年 2 月 15 日，2026 年春节是 2 月 17 日。因此，距离 2026 年春节...",
       "source_url": "https://www.v2ex.com/"
-    },
-    {
-      "title": "写了一个网页版 vscode 弹窗插件（油猴）",
-      "link": "https://www.v2ex.com/t/1111639#reply2",
-      "date": "2025-02-15 12:38",
-      "author": "分享创造",
-      "timestamp": 1739594329.0,
-      "summary": "GoodNote - VSCode 网页笔记助手\n测试页：\nhttps://goodnote-vscode.cornradio.org/\n欢迎来体验试试。\n另外我遇到一个问题，就是我想要这个 Monaco 编辑器改成本地的（但是我改了半天该不对） 否则在一些网站上他是无法运行的。\n也可能是我代理的问...",
-      "source_url": "https://www.v2ex.com/"
-    },
-    {
-      "title": "DeepSeek 对话生成器：让 DS 说出你想要的答案（附脑洞彩蛋）",
-      "link": "https://www.v2ex.com/t/1111618#reply3",
-      "date": "2025-02-15 11:00",
-      "author": "分享创造",
-      "timestamp": 1739588423.0,
-      "summary": "背景：一次春节的技术狂欢\n最近在 V2EX 、GitHub 甚至朋友圈频繁刷到 DeepSeek 的「硬核拜年」——有人用它生成代码春联，有人训练 AI 写红包祝福，甚至饭桌上老一辈都在讨论 Deepseek 。\n我们团队（几个闲不住的开发者）一拍大腿：「不如让 DS 彻底放飞自我，帮用户伪造对话记...",
-      "source_url": "https://www.v2ex.com/"
-    },
-    {
-      "title": "8GB RAM DDR4, 2 EPYC Cores, 10 Gbps ONLY €4,8 -- Valentine's Day Limited Deal",
-      "link": "https://lowendtalk.com/discussion/202748/8gb-ram-ddr4-2-epyc-cores-10-gbps-only-4-8-valentines-day-limited-deal",
-      "date": "2025-02-15 01:24",
-      "author": "Offers — LowEndTalk",
-      "timestamp": 1739553897.0,
-      "summary": "https://cloudblast.io/\n\nFor those who don't know us: we are a cloud hosting company based in Dubai with servers in Amsterdam, NL (Equinix AM5). Our pl...",
-      "source_url": "https://lowendtalk.com/"
-    },
-    {
-      "title": "用 JS 脚本控制你的 Android 手机",
-      "link": "https://www.v2ex.com/t/1111579#reply5",
-      "date": "2025-02-14 23:03",
-      "author": "分享创造",
-      "timestamp": 1739545437.0,
-      "summary": "我把 OCR 功能、TTS 功能和一个完整的 JS 运行环境以及通过 Wi-Fi 访问本机 ADB 功能整合到了一个 Android 程序里，这样你只需要写一个简单的 JS 脚本，就可以实现复杂的手机控制逻辑。\n我将源代码共享在这里: https://github.com/asny415/swipe...",
-      "source_url": "https://www.v2ex.com/"
-    },
-    {
-      "title": "openSUSE Tumbleweed Ditches AppArmor for SELinux",
-      "link": "https://news.itsfoss.com/opensuse-ditches-apparmor/",
-      "date": "2025-02-14 21:32",
-      "author": "It's FOSS News",
-      "timestamp": 1739539925.0,
-      "summary": "openSUSE Tumbleweed has changed its default mandatory access control (MAC) system.",
-      "source_url": "https://news.itsfoss.com/"
-    },
-    {
-      "title": "[Valentine's Day Sale] ★ FameSystems.de | AMD EPYC 9754 | DDR5 RAM | @ 2.99 € ★",
-      "link": "https://lowendtalk.com/discussion/202738/valentines-day-sale-famesystems-de-amd-epyc-9754-ddr5-ram-2-99",
-      "date": "2025-02-14 21:05",
-      "author": "Offers — LowEndTalk",
-      "timestamp": 1739538351.0,
-      "summary": "Today we are introducing our Valentine's Day sale!\n\nWe operate our own server hardware and network equipment in Frankfurt, Germany. Our offer is based...",
-      "source_url": "https://lowendtalk.com/"
-    },
-    {
-      "title": "AI-Powered Edit Predictions Have Shown Up On Zed",
-      "link": "https://news.itsfoss.com/zed-edit-prediction/",
-      "date": "2025-02-14 19:46",
-      "author": "It's FOSS News",
-      "timestamp": 1739533595.0,
-      "summary": "Zed's Edit Prediction anticipates your next move, making coding sessions more spontaneous.",
-      "source_url": "https://news.itsfoss.com/"
     }
   ]
 }
