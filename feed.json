@@ -1,5 +1,5 @@
 {
-  "update_time": "2025-02-19 04:14",
+  "update_time": "2025-02-19 06:12",
   "articles": [
     {
       "title": "Two virtual servers with special requirements",
@@ -425,21 +425,21 @@
       "source_url": "https://lowendtalk.com/"
     },
     {
+      "title": "HOST-C, Chat, Updates, Stuff",
+      "link": "https://lowendtalk.com/discussion/200698/host-c-chat-updates-stuff",
+      "date": "2024-12-10 19:12",
+      "author": "LowEndTalk",
+      "timestamp": 1733829178.0,
+      "summary": "Hy fellas,\n\nStarted this as it was time we had 1 thread for all HOST-C stuff related.\n\nWelcome all, trolling, memes or whatever is allowed, heck, even...",
+      "source_url": "https://lowendtalk.com/"
+    },
+    {
       "title": "Advin Servers - Black Friday - 20% Off EPYC Genoa 4 vCPU 8GB DDR5 10 Gbps VPS for $8/month US and DE",
       "link": "https://lowendtalk.com/discussion/200114/advin-servers-black-friday-20-off-epyc-genoa-4-vcpu-8gb-ddr5-10-gbps-vps-for-8-month-us-and-de",
       "date": "2024-11-29 16:09",
       "author": "LowEndTalk",
       "timestamp": 1732867788.0,
       "summary": "Introduction\nWe have a new promotion on our AMD EPYC Genoa 9654 and AMD EPYC Genoa 9554 series of virtual machines. Please note that availability is q...",
-      "source_url": "https://lowendtalk.com/"
-    },
-    {
-      "title": "NameCrane Black Friday - CraneMail Email Hosting + Cloud Storage Launch with Lifetime Deal",
-      "link": "https://lowendtalk.com/discussion/200093/namecrane-black-friday-cranemail-email-hosting-cloud-storage-launch-with-lifetime-deal",
-      "date": "2024-11-29 11:13",
-      "author": "LowEndTalk",
-      "timestamp": 1732850018.0,
-      "summary": "CraneMail - Black Friday Launch Deals\n\nThis thanksgiving we're thankful for many things - but mostly that we finally get to launch our new email hosti...",
       "source_url": "https://lowendtalk.com/"
     },
     {
