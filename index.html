@@ -22,7 +22,6 @@
     </header>
     <main class="articles" id="articles"></main>
     <script>
-        const GITHUB_REPO = 'jiix/feed';
 
         function escapeString(str) {
             return str
@@ -34,15 +33,6 @@
                 .replace(/\t/g, '\\t');
         }
 
-        function createGitHubIssue(title, summary, date, link, type = 'comment') {
-            const issueTitle = `${title} (${date})`;
-            const cleanSummary = summary.split(/[。！？.!?]/)[0].replace(/\s+/g, ' ').trim();
-            const issueBody = `${cleanSummary}。\n\n链接：${link}`;
-            const label = type === 'comment' ? 'comment' : 'favorite';
-            const issueUrl = `https://github.com/${GITHUB_REPO}/issues/new?title=${encodeURIComponent(issueTitle)}&body=${encodeURIComponent(issueBody)}&labels=${label}`;
-            
-            window.open(issueUrl, '_blank');
-        }
 
         function isToday(dateStr) {
             const today = new Date();
