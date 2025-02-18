@@ -42,13 +42,13 @@
 
         function renderArticle(article) {
             const safeTitle = escapeString(article.title);
-            const safeSummary = escapeString(article.summary || '无摘要');
+            const safeSummary = escapeString(article.summary || 'No Summary');
             
             return `
                 <article class="article">
                     <a href="${article.link}" class="article-title" target="_blank">${article.title}</a>
                     <div class="article-summary">
-                        ${article.summary || '无摘要'}
+                        ${article.summary || 'No Summary'}
                     </div>
                     <div class="article-meta">
                         <a href="${article.source_url}" class="meta-item source-link" target="_blank">
@@ -71,7 +71,7 @@
                 }
                 const data = await response.json();
                 
-                document.getElementById('update-time').textContent = `更新时间：${data.update_time}`;
+                document.getElementById('update-time').textContent = `Update time: ${data.update_time}`;
                 const articlesContainer = document.getElementById('articles');
                 
                 if (!data.articles || !Array.isArray(data.articles)) {
@@ -87,8 +87,8 @@
                     html += `
                         <div class="section-title">
                             <i class="mdi mdi-star"></i>
-                            <span>今日更新</span>
-                            <small>(${todayArticles.length}篇)</small>
+                            <span>Today</span>
+                            <small>(${todayArticles.length}Thread)</small>
                         </div>
                         <div class="article-section">
                             ${todayArticles.map(renderArticle).join('')}
@@ -98,8 +98,8 @@
                 html += `
                     <div class="section-title ${todayArticles.length > 0 ? 'history-title' : ''}">
                         <i class="mdi mdi-history"></i>
-                        <span>历史文章</span>
-                        <small>(${olderArticles.length}篇)</small>
+                        <span>History</span>
+                        <small>(${olderArticles.length}Thread)</small>
                     </div>
                     <div class="article-section">
                         ${olderArticles.map(renderArticle).join('')}
@@ -109,8 +109,7 @@
             } catch (error) {
                 document.getElementById('articles').innerHTML = `
                     <div class="error-message">
-                        加载文章失败：${error.message}<br>
-                        请检查 feed.json 文件是否存在并且格式正确
+                        error：${error.message}<br>
                     </div>`;
             }
         }
