@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>LowEndTalk Reader</title>
+    <title>LowEndTalk RSS Reader</title>
     <link rel="icon" href="static/favicon.ico" type="image/x-icon">
     <link rel="shortcut icon" href="static/favicon.ico" type="image/x-icon">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@mdi/font@latest/css/materialdesignicons.min.css">
@@ -51,10 +51,6 @@
                         ${article.summary || 'No Summary'}
                     </div>
                     <div class="article-meta">
-                        <a href="${article.source_url}" class="meta-item source-link" target="_blank">
-                            <i class="mdi mdi-rss"></i>
-                            <span>${article.author}</span>
-                        </a>
                         <div class="meta-item">
                             <i class="mdi mdi-calendar-clock"></i>
                             <span>${article.date}</span>
@@ -88,7 +84,7 @@
                         <div class="section-title">
                             <i class="mdi mdi-star"></i>
                             <span>Today</span>
-                            <small>(${todayArticles.length}Thread)</small>
+                            <small>(${todayArticles.length} Threads)</small>
                         </div>
                         <div class="article-section">
                             ${todayArticles.map(renderArticle).join('')}
@@ -99,7 +95,7 @@
                     <div class="section-title ${todayArticles.length > 0 ? 'history-title' : ''}">
                         <i class="mdi mdi-history"></i>
                         <span>History</span>
-                        <small>(${olderArticles.length}Thread)</small>
+                        <small>(${olderArticles.length} Threads)</small>
                     </div>
                     <div class="article-section">
                         ${olderArticles.map(renderArticle).join('')}
