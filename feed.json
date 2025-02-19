@@ -1,5 +1,5 @@
 {
-  "update_time": "2025-02-19 10:43",
+  "update_time": "2025-02-19 12:16",
   "articles": [
     {
       "title": "Two virtual servers with special requirements",
@@ -398,6 +398,15 @@
       "source_url": "https://lowendtalk.com/"
     },
     {
+      "title": "Need VPS (2 cores min, 4 GB min, 2 TB HDD)",
+      "link": "https://lowendtalk.com/discussion/201878/need-vps-2-cores-min-4-gb-min-2-tb-hdd",
+      "date": "2025-01-15 16:31",
+      "author": "LowEndTalk",
+      "timestamp": 1736929876.0,
+      "summary": "VZ Type:\nAny\n\nNumber of Cores:2-4\nRAM:4\nDisk Space:2 TB\nDisk Type:HDD\n\nBandwidth:\nPort Speed:1 GBPs\n\nDDoS Protection:\nNo\n\nNumber of IPs:\n1, no extras\n...",
+      "source_url": "https://lowendtalk.com/"
+    },
+    {
       "title": "EasyVM - lots of network connectivity issues - support was non-responsive",
       "link": "https://lowendtalk.com/discussion/201468/easyvm-lots-of-network-connectivity-issues-support-was-non-responsive",
       "date": "2025-01-03 02:28",
@@ -425,12 +434,12 @@
       "source_url": "https://lowendtalk.com/"
     },
     {
-      "title": "Advin Servers - Black Friday - 20% Off EPYC Genoa 4 vCPU 8GB DDR5 10 Gbps VPS for $8/month US and DE",
-      "link": "https://lowendtalk.com/discussion/200114/advin-servers-black-friday-20-off-epyc-genoa-4-vcpu-8gb-ddr5-10-gbps-vps-for-8-month-us-and-de",
-      "date": "2024-11-29 16:09",
+      "title": "B L A C K - O U T F R I D A Y - FIBERSTATE MEGA EVENT - NEW LA2 DC + GIVEAWAYS! KABOOM!",
+      "link": "https://lowendtalk.com/discussion/200196/b-l-a-c-k-o-u-t-f-r-i-d-a-y-fiberstate-mega-event-new-la2-dc-giveaways-kaboom",
+      "date": "2024-11-30 10:58",
       "author": "LowEndTalk",
-      "timestamp": 1732867788.0,
-      "summary": "Introduction\nWe have a new promotion on our AMD EPYC Genoa 9654 and AMD EPYC Genoa 9554 series of virtual machines. Please note that availability is q...",
+      "timestamp": 1732935536.0,
+      "summary": "🎉 WELCOME TO FIBERSTATE'S MOST EPIC BLACK FRIDAY SALE YET! 🎉\n\nThis isn’t just another Black Friday sale—it’s a celebration, a revolution, and the ulti...",
       "source_url": "https://lowendtalk.com/"
     },
     {
@@ -440,15 +449,6 @@
       "author": "LowEndTalk",
       "timestamp": 1732834807.0,
       "summary": "BLACK FRIDAY 2024 - LIMITED KVM ROOTSERVER DEALS!\n\nSince 2018, we have been providing servers, web hosting, and domains to private and business custom...",
-      "source_url": "https://lowendtalk.com/"
-    },
-    {
-      "title": "AlphaVPS - BF2024 MEGA THREAD! RYZEN, EPYC, KVM DEALS, HIGH-STORAGE SERVERS & EXCLUSIVE FLASH SALES!",
-      "link": "https://lowendtalk.com/discussion/199883/alphavps-bf2024-mega-thread-ryzen-epyc-kvm-deals-high-storage-servers-exclusive-flash-sales",
-      "date": "2024-11-25 19:41",
-      "author": "LowEndTalk",
-      "timestamp": 1732534861.0,
-      "summary": "Welcome to AlphaVPS' Black Friday 2024 Mega Thread! We're back again with some super-limited quantity deals that are sure to sell out before the week ...",
       "source_url": "https://lowendtalk.com/"
     }
   ]
