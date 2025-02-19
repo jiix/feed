@@ -1,6 +1,15 @@
 {
-  "update_time": "2025-02-19 16:18",
+  "update_time": "2025-02-19 18:14",
   "articles": [
+    {
+      "title": "KS-1 Tranfer",
+      "link": "https://lowendtalk.com/discussion/202851/ks-1-tranfer",
+      "date": "2025-02-19 17:12",
+      "author": "LowEndTalk",
+      "timestamp": 1739956338.0,
+      "summary": "I have a KS1 in an OVH Europe account and am looking to transfer it to a new owner.\n\nIt is prepaid until March 2025, looking for 85€ PayPal only trans...",
+      "source_url": "https://lowendtalk.com/"
+    },
     {
       "title": "crunchbits.us log activity",
       "link": "https://lowendtalk.com/discussion/202850/crunchbits-us-log-activity",
@@ -119,21 +128,21 @@
       "source_url": "https://lowendtalk.com/"
     },
     {
+      "title": "Cheap dedicated server in Europe with the option to bring a /24 subnet for an announcement",
+      "link": "https://lowendtalk.com/discussion/202819/cheap-dedicated-server-in-europe-with-the-option-to-bring-a-24-subnet-for-an-announcement",
+      "date": "2025-02-18 03:18",
+      "author": "LowEndTalk",
+      "timestamp": 1739819897.0,
+      "summary": "We are looking for the cheapest possible dedicated server in Europe where we can bring a /24 subnet for an announcement.\n\nSpecs:\n\n\n16 cores\n32 GB RAM\n...",
+      "source_url": "https://lowendtalk.com/"
+    },
+    {
       "title": "Grok 3 is going to be released tomorrow",
       "link": "https://lowendtalk.com/discussion/202813/grok-3-is-going-to-be-released-tomorrow",
       "date": "2025-02-17 21:35",
       "author": "LowEndTalk",
       "timestamp": 1739799330.0,
       "summary": "A new and improved version of the UNCENSORED AI, Grok, is going to be released tomorrow.\n\nThe standalone version is limited to a few countries, but yo...",
-      "source_url": "https://lowendtalk.com/"
-    },
-    {
-      "title": "I need a VPS in Europe with lowest possible latency",
-      "link": "https://lowendtalk.com/discussion/202811/i-need-a-vps-in-europe-with-lowest-possible-latency",
-      "date": "2025-02-17 18:47",
-      "author": "LowEndTalk",
-      "timestamp": 1739789248.0,
-      "summary": "I am looking for a VPS in Europe and would appreciate if the provider offers a Looking Glass feature so I can assess IP quality and latency. Additiona...",
       "source_url": "https://lowendtalk.com/"
     },
     {
@@ -218,15 +227,6 @@
       "source_url": "https://lowendtalk.com/"
     },
     {
-      "title": "Any cheap vps windows asia region?",
-      "link": "https://lowendtalk.com/discussion/202720/any-cheap-vps-windows-asia-region",
-      "date": "2025-02-14 11:40",
-      "author": "LowEndTalk",
-      "timestamp": 1739504433.0,
-      "summary": "Hi all, currently im planing to get a windows vps on asia region. If you have that service please shout..\nthank you.",
-      "source_url": "https://lowendtalk.com/"
-    },
-    {
       "title": "No Prize from PulsedMedia",
       "link": "https://lowendtalk.com/discussion/202712/no-prize-from-pulsedmedia",
       "date": "2025-02-14 05:20",
@@ -281,21 +281,21 @@
       "source_url": "https://lowendtalk.com/"
     },
     {
-      "title": "Something different, A (free) Cloudflare alternative - DDoS Protection, Bot Protection, Custom Rules",
-      "link": "https://lowendtalk.com/discussion/202607/something-different-a-free-cloudflare-alternative-ddos-protection-bot-protection-custom-rules",
-      "date": "2025-02-10 20:23",
-      "author": "LowEndTalk",
-      "timestamp": 1739190206.0,
-      "summary": "Hi LET,\n\nWe're offering a Dutch built 🇳🇱 alternative to Cloudflare, Akamai, etc! Perfect for small projects, web hosters, GIANT enterprises or just fo...",
-      "source_url": "https://lowendtalk.com/"
-    },
-    {
       "title": "★ NohaVPS | Linux & Windows | VPS NVMe $5.00 / Dedicated Servers $35.00 |10 Gbps ★",
       "link": "https://lowendtalk.com/discussion/202577/nohavps-linux-windows-vps-nvme-5-00-dedicated-servers-35-00-10-gbps",
       "date": "2025-02-09 04:29",
       "author": "LowEndTalk",
       "timestamp": 1739046570.0,
       "summary": "On this occasion we come to publish some specials that we have launched\n\nOur servers are located in Germany are AMD EPYC 7742 64-Core (10 GBPs)\nOur se...",
+      "source_url": "https://lowendtalk.com/"
+    },
+    {
+      "title": "Leaseweb | Singapore Vps AMD EPYC & 25TB Bandwidth 10Gbit",
+      "link": "https://lowendtalk.com/discussion/202576/leaseweb-singapore-vps-amd-epyc-25tb-bandwidth-10gbit",
+      "date": "2025-02-09 03:36",
+      "author": "LowEndTalk",
+      "timestamp": 1739043407.0,
+      "summary": "Hello LowEndTalk Community!\n\nWe at HostDZire.com are an authorized Leaseweb reseller and started our operations in 2013. HostDZire has built a solid r...",
       "source_url": "https://lowendtalk.com/"
     },
     {
@@ -380,6 +380,15 @@
       "source_url": "https://lowendtalk.com/"
     },
     {
+      "title": "Power Up Your Storage for Just $3.99/Month – Start Big with Storage Starter!",
+      "link": "https://lowendtalk.com/discussion/202103/power-up-your-storage-for-just-3-99-month-start-big-with-storage-starter",
+      "date": "2025-01-23 02:11",
+      "author": "LowEndTalk",
+      "timestamp": 1737569479.0,
+      "summary": "Order Now to secure your purchase effortlessly!\n\nSave big with DediRock’s exclusive hosting deals! Get 33% off regular pricing on Storage Starter and ...",
+      "source_url": "https://lowendtalk.com/"
+    },
+    {
       "title": "We want to reduce the spam in the offers category - share your ideas!",
       "link": "https://lowendtalk.com/discussion/202094/we-want-to-reduce-the-spam-in-the-offers-category-share-your-ideas",
       "date": "2025-01-22 22:52",
@@ -440,15 +449,6 @@
       "author": "LowEndTalk",
       "timestamp": 1732935536.0,
       "summary": "🎉 WELCOME TO FIBERSTATE'S MOST EPIC BLACK FRIDAY SALE YET! 🎉\n\nThis isn’t just another Black Friday sale—it’s a celebration, a revolution, and the ulti...",
-      "source_url": "https://lowendtalk.com/"
-    },
-    {
-      "title": "Black Friday: EPYC Servers from just €4.99!",
-      "link": "https://lowendtalk.com/discussion/200083/black-friday-epyc-servers-from-just-4-99",
-      "date": "2024-11-29 07:00",
-      "author": "LowEndTalk",
-      "timestamp": 1732834807.0,
-      "summary": "BLACK FRIDAY 2024 - LIMITED KVM ROOTSERVER DEALS!\n\nSince 2018, we have been providing servers, web hosting, and domains to private and business custom...",
       "source_url": "https://lowendtalk.com/"
     }
   ]
