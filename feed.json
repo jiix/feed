@@ -1,13 +1,13 @@
 {
-  "update_time": "2025-02-19 18:14",
+  "update_time": "2025-02-19 20:23",
   "articles": [
     {
-      "title": "KS-1 Tranfer",
-      "link": "https://lowendtalk.com/discussion/202851/ks-1-tranfer",
-      "date": "2025-02-19 17:12",
+      "title": "Contabo's Indian Servers – A Budget Dream or a Frustrating Gamble?",
+      "link": "https://lowendtalk.com/discussion/202853/contabos-indian-servers-a-budget-dream-or-a-frustrating-gamble",
+      "date": "2025-02-19 18:32",
       "author": "LowEndTalk",
-      "timestamp": 1739956338.0,
-      "summary": "I have a KS1 in an OVH Europe account and am looking to transfer it to a new owner.\n\nIt is prepaid until March 2025, looking for 85€ PayPal only trans...",
+      "timestamp": 1739961157.0,
+      "summary": "I recently found myself on a mission to get an Indian server, and after what felt like an endless search, I landed on Contabo. The offer seemed too go...",
       "source_url": "https://lowendtalk.com/"
     },
     {
@@ -191,15 +191,6 @@
       "source_url": "https://lowendtalk.com/"
     },
     {
-      "title": "Original Low Prices starting at $3.50/month | Multi-Month Discounts | Double RAM AND Double Bandwidt",
-      "link": "https://lowendtalk.com/discussion/202776/original-low-prices-starting-at-3-50-month-multi-month-discounts-double-ram-and-double-bandwidt",
-      "date": "2025-02-16 07:23",
-      "author": "LowEndTalk",
-      "timestamp": 1739661780.0,
-      "summary": "All signups get double RAM and double bandwidth, double what is listed here. Please post your invoice number here and I will manually adjust the RAM a...",
-      "source_url": "https://lowendtalk.com/"
-    },
-    {
       "title": "HostBrr | Valentine Offers - 10 Gbps StorageBox €7/year! - cPanel 85% Off Flash!",
       "link": "https://lowendtalk.com/discussion/202755/hostbrr-valentine-offers-10-gbps-storagebox-7-year-cpanel-85-off-flash",
       "date": "2025-02-15 05:43",
@@ -218,12 +209,12 @@
       "source_url": "https://lowendtalk.com/"
     },
     {
-      "title": "[Valentine's Day Sale] ★ FameSystems.de | AMD EPYC 9754 | DDR5 RAM | @ 2.99 € ★",
-      "link": "https://lowendtalk.com/discussion/202738/valentines-day-sale-famesystems-de-amd-epyc-9754-ddr5-ram-2-99",
-      "date": "2025-02-14 21:05",
+      "title": "OVH KS-LE-B & OVH KS-LE-C [Available For Transfer]",
+      "link": "https://lowendtalk.com/discussion/202735/ovh-ks-le-b-ovh-ks-le-c-available-for-transfer",
+      "date": "2025-02-14 18:49",
       "author": "LowEndTalk",
-      "timestamp": 1739538351.0,
-      "summary": "Today we are introducing our Valentine's Day sale!\n\nWe operate our own server hardware and network equipment in Frankfurt, Germany. Our offer is based...",
+      "timestamp": 1739530166.0,
+      "summary": "OVH KS-LE-B\n* Intel Xeon E3-1245v5 - 4c/8t - 3.5 GHz/3.9 GHz\n* 32 GB ECC 2400 MHz\n* 2×2 TB HDD SATA Soft RAID\n* France - Gravelines\n* OVH EU Account T...",
       "source_url": "https://lowendtalk.com/"
     },
     {
@@ -263,6 +254,15 @@
       "source_url": "https://lowendtalk.com/"
     },
     {
+      "title": "From $1.97/mo - 10Gbps - SSD - Frankfurt / New Jersey / Los Angeles / Miami - Many payment methods!",
+      "link": "https://lowendtalk.com/discussion/202690/from-1-97-mo-10gbps-ssd-frankfurt-new-jersey-los-angeles-miami-many-payment-methods",
+      "date": "2025-02-13 18:27",
+      "author": "LowEndTalk",
+      "timestamp": 1739442463.0,
+      "summary": "Hello,\n\n### SPECIAL OFFER: Reply to this topic with your order number and we'll double your bandwidth! ###\n\nEthernet Servers has been in business sinc...",
+      "source_url": "https://lowendtalk.com/"
+    },
+    {
       "title": "Transfer - OVH KS-LE-C (upgraded) - Netcup RS 1000...",
       "link": "https://lowendtalk.com/discussion/202670/transfer-ovh-ks-le-c-upgraded-netcup-rs-1000",
       "date": "2025-02-13 05:08",
@@ -272,12 +272,12 @@
       "source_url": "https://lowendtalk.com/"
     },
     {
-      "title": "JUST.HOSTING ★ NEW VPS LOCATION ★ TOKYO, JAPAN ★ FROM $0.99/month",
-      "link": "https://lowendtalk.com/discussion/202635/just-hosting-new-vps-location-tokyo-japan-from-0-99-month",
-      "date": "2025-02-11 23:25",
+      "title": "Something different, A (free) Cloudflare alternative - DDoS Protection, Bot Protection, Custom Rules",
+      "link": "https://lowendtalk.com/discussion/202607/something-different-a-free-cloudflare-alternative-ddos-protection-bot-protection-custom-rules",
+      "date": "2025-02-10 20:23",
       "author": "LowEndTalk",
-      "timestamp": 1739287512.0,
-      "summary": "Hello, LET\n\nJust.Hosting is glad to announce a new VPS location in TOKYO, JAPAN.\n\nIf you'd like to test our network performance at this location, plea...",
+      "timestamp": 1739190206.0,
+      "summary": "Hi LET,\n\nWe're offering a Dutch built 🇳🇱 alternative to Cloudflare, Akamai, etc! Perfect for small projects, web hosters, GIANT enterprises or just fo...",
       "source_url": "https://lowendtalk.com/"
     },
     {
@@ -398,12 +398,30 @@
       "source_url": "https://lowendtalk.com/"
     },
     {
+      "title": "Hostaddon.com VPS | EU/USA/ASIA | 10/2/1 Gbps | SSD NVMe | Upto 50% Off | Storage | DMCA Ignore",
+      "link": "https://lowendtalk.com/discussion/202063/hostaddon-com-vps-eu-usa-asia-10-2-1-gbps-ssd-nvme-upto-50-off-storage-dmca-ignore",
+      "date": "2025-01-21 19:40",
+      "author": "LowEndTalk",
+      "timestamp": 1737459657.0,
+      "summary": "Hostaddon.com presents premium VPS services across 3 continents (Americas, EU, Asia) backed with high class hardware and blazing fast network.\n\nWhy Ho...",
+      "source_url": "https://lowendtalk.com/"
+    },
+    {
       "title": "Need VPS (2 cores min, 4 GB min, 2 TB HDD)",
       "link": "https://lowendtalk.com/discussion/201878/need-vps-2-cores-min-4-gb-min-2-tb-hdd",
       "date": "2025-01-15 16:31",
       "author": "LowEndTalk",
       "timestamp": 1736929876.0,
       "summary": "VZ Type:\nAny\n\nNumber of Cores:2-4\nRAM:4\nDisk Space:2 TB\nDisk Type:HDD\n\nBandwidth:\nPort Speed:1 GBPs\n\nDDoS Protection:\nNo\n\nNumber of IPs:\n1, no extras\n...",
+      "source_url": "https://lowendtalk.com/"
+    },
+    {
+      "title": "DartNode | January Annual Dedicated Server Giveaway | News | 2024 Appreciation Deals",
+      "link": "https://lowendtalk.com/discussion/201827/dartnode-january-annual-dedicated-server-giveaway-news-2024-appreciation-deals",
+      "date": "2025-01-14 08:27",
+      "author": "LowEndTalk",
+      "timestamp": 1736814478.0,
+      "summary": "DartNode January 2025 Update\n\nHappy New Year, LowEndTalk community! We had a super busy 2024 and that was in big part thanks to all of y'all. We are e...",
       "source_url": "https://lowendtalk.com/"
     },
     {
@@ -431,24 +449,6 @@
       "author": "LowEndTalk",
       "timestamp": 1734981062.0,
       "summary": "We're excited to ring in the new year with this amazing community! What a journey this past year has been, filled with milestones that have truly rede...",
-      "source_url": "https://lowendtalk.com/"
-    },
-    {
-      "title": "HOST-C, Chat, Updates, Stuff",
-      "link": "https://lowendtalk.com/discussion/200698/host-c-chat-updates-stuff",
-      "date": "2024-12-10 19:12",
-      "author": "LowEndTalk",
-      "timestamp": 1733829178.0,
-      "summary": "Hy fellas,\n\nStarted this as it was time we had 1 thread for all HOST-C stuff related.\n\nWelcome all, trolling, memes or whatever is allowed, heck, even...",
-      "source_url": "https://lowendtalk.com/"
-    },
-    {
-      "title": "B L A C K - O U T F R I D A Y - FIBERSTATE MEGA EVENT - NEW LA2 DC + GIVEAWAYS! KABOOM!",
-      "link": "https://lowendtalk.com/discussion/200196/b-l-a-c-k-o-u-t-f-r-i-d-a-y-fiberstate-mega-event-new-la2-dc-giveaways-kaboom",
-      "date": "2024-11-30 10:58",
-      "author": "LowEndTalk",
-      "timestamp": 1732935536.0,
-      "summary": "🎉 WELCOME TO FIBERSTATE'S MOST EPIC BLACK FRIDAY SALE YET! 🎉\n\nThis isn’t just another Black Friday sale—it’s a celebration, a revolution, and the ulti...",
       "source_url": "https://lowendtalk.com/"
     }
   ]
