@@ -1,6 +1,15 @@
 {
-  "update_time": "2025-02-19 12:16",
+  "update_time": "2025-02-19 14:19",
   "articles": [
+    {
+      "title": "ovh reseller",
+      "link": "https://lowendtalk.com/discussion/202848/ovh-reseller",
+      "date": "2025-02-19 14:08",
+      "author": "LowEndTalk",
+      "timestamp": 1739945288.0,
+      "summary": "Hello , \n I'm from Iran and I want to buy a ovh vps but As you know I can't pass the kyc process cause I'm Iranian.(also can't pay with credit card , ...",
+      "source_url": "https://lowendtalk.com/"
+    },
     {
       "title": "Two virtual servers with special requirements",
       "link": "https://lowendtalk.com/discussion/202844/two-virtual-servers-with-special-requirements",
@@ -263,15 +272,6 @@
       "source_url": "https://lowendtalk.com/"
     },
     {
-      "title": "From $1.97/mo - 10Gbps - SSD - Frankfurt / New Jersey / Los Angeles / Miami - Many payment methods!",
-      "link": "https://lowendtalk.com/discussion/202690/from-1-97-mo-10gbps-ssd-frankfurt-new-jersey-los-angeles-miami-many-payment-methods",
-      "date": "2025-02-13 18:27",
-      "author": "LowEndTalk",
-      "timestamp": 1739442463.0,
-      "summary": "Hello,\n\n### SPECIAL OFFER: Reply to this topic with your order number and we'll double your bandwidth! ###\n\nEthernet Servers has been in business sinc...",
-      "source_url": "https://lowendtalk.com/"
-    },
-    {
       "title": "Transfer - OVH KS-LE-C (upgraded) - Netcup RS 1000...",
       "link": "https://lowendtalk.com/discussion/202670/transfer-ovh-ks-le-c-upgraded-netcup-rs-1000",
       "date": "2025-02-13 05:08",
@@ -314,6 +314,15 @@
       "author": "LowEndTalk",
       "timestamp": 1739043407.0,
       "summary": "Hello LowEndTalk Community!\n\nWe at HostDZire.com are an authorized Leaseweb reseller and started our operations in 2013. HostDZire has built a solid r...",
+      "source_url": "https://lowendtalk.com/"
+    },
+    {
+      "title": "Anniversary Flash-4 FI-Storage for transfer",
+      "link": "https://lowendtalk.com/discussion/202516/anniversary-flash-4-fi-storage-for-transfer",
+      "date": "2025-02-07 04:51",
+      "author": "LowEndTalk",
+      "timestamp": 1738875074.0,
+      "summary": "Hi\n\nI have this storage server available for transfer from HostBrr.\n\nAnniversary Flash-4 FI-Storage with some extras.\n\n3 vCore AMD EPYC 7502P 10 GB DD...",
       "source_url": "https://lowendtalk.com/"
     },
     {
@@ -440,15 +449,6 @@
       "author": "LowEndTalk",
       "timestamp": 1732935536.0,
       "summary": "🎉 WELCOME TO FIBERSTATE'S MOST EPIC BLACK FRIDAY SALE YET! 🎉\n\nThis isn’t just another Black Friday sale—it’s a celebration, a revolution, and the ulti...",
-      "source_url": "https://lowendtalk.com/"
-    },
-    {
-      "title": "Black Friday: EPYC Servers from just €4.99!",
-      "link": "https://lowendtalk.com/discussion/200083/black-friday-epyc-servers-from-just-4-99",
-      "date": "2024-11-29 07:00",
-      "author": "LowEndTalk",
-      "timestamp": 1732834807.0,
-      "summary": "BLACK FRIDAY 2024 - LIMITED KVM ROOTSERVER DEALS!\n\nSince 2018, we have been providing servers, web hosting, and domains to private and business custom...",
       "source_url": "https://lowendtalk.com/"
     }
   ]
