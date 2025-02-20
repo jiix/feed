@@ -1,6 +1,15 @@
 {
-  "update_time": "2025-02-20 14:18",
+  "update_time": "2025-02-20 16:17",
   "articles": [
+    {
+      "title": "for the OVH RISE-S plan, will BHS be available? anyone knows it?",
+      "link": "https://lowendtalk.com/discussion/202885/for-the-ovh-rise-s-plan-will-bhs-be-available-anyone-knows-it",
+      "date": "2025-02-20 14:34",
+      "author": "LowEndTalk",
+      "timestamp": 1740033289.0,
+      "summary": "now only EU location, but target user is in USA, so really need a BHS location server.\nanyone have a info? if the BHS will be available in the future?",
+      "source_url": "https://lowendtalk.com/"
+    },
     {
       "title": "Any alternatives to virtfusion, virtualizor, proxmox for whmcs?",
       "link": "https://lowendtalk.com/discussion/202884/any-alternatives-to-virtfusion-virtualizor-proxmox-for-whmcs",
@@ -251,15 +260,6 @@
       "author": "LowEndTalk",
       "timestamp": 1739481607.0,
       "summary": "A week passed since the Provider Poll 2024 Lottery result was published but I can't get my prize from PulsedMedia.\n\nIt seems @PulsedMedia is disappear...",
-      "source_url": "https://lowendtalk.com/"
-    },
-    {
-      "title": "Hostslick down for anyone else?",
-      "link": "https://lowendtalk.com/discussion/202703/hostslick-down-for-anyone-else",
-      "date": "2025-02-13 23:51",
-      "author": "LowEndTalk",
-      "timestamp": 1739461870.0,
-      "summary": "My VPSes with HostSlick are currently down, and I am unable to access their user panel. Aside from logging into the account, any other page (like tick...",
       "source_url": "https://lowendtalk.com/"
     },
     {
